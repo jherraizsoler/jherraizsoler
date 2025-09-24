@@ -8,7 +8,7 @@
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
-<p align="left">
+<p align="center">
 🎓 Tecnico superior en Desarrollo de aplicaciones Multiplataforma
 
 
@@ -22,45 +22,45 @@
 <br>
 
 <!--tech stack icons-->
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
 
-<h3><b>Lenguajes de Programación</b></h3>
-<p align="left">
+<h3 align="center"><b>Lenguajes de Programación</b></h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,py,js,ts,kotlin" />
   </a>
 </p>
 
-<h3><b>Frameworks & Servidores Backend</b></h3>
-<p align="left">
+<h3 align="center"><b>Frameworks & Servidores Backend</b></h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,dotnet,hibernate,nodejs" />
   </a>
 </p>
 
-<h3><b>Bases de Datos & Persistencia</b></h3>
-<p align="left">
+<h3 align="center"><b>Bases de Datos & Persistencia</b></h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb" />
   </a>
 </p>
 
-<h3><b>Frameworks & Librerías Frontend</b></h3> 
-<p align="left">
+<h3 align="center"><b>Frameworks & Librerías Frontend</b></h3> 
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,angular,jquery,bootstrap,materialui" />
   </a>
 </p>
 
-<h3><b>Herramientas de Desarrollo y DevOps</b></h3>
-<p align="left">
+<h3 align="center"><b>Herramientas de Desarrollo y DevOps</b></h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,eclipse,postman,aws,azure" />
   </a>
 </p>
 
-<h3><b>Librerías & Sistemas Específicos</b></h3>
-<p align="left">
+<h3 align="center"><b>Librerías & Sistemas Específicos</b></h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,androidstudio,linux" />
   </a>
