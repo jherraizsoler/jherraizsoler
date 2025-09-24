@@ -26,11 +26,55 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,csharp,java,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,spring,ps&perline=12" />
     <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,azure,csharp,bootstrap,cs,docker,figma,gcp,gradle,hibernate,fastapi,java,flutter,kotlin,maven,mongodb,nginx,npm,obsidian,notion,pnpm,postgres,pycharm,react,sass,stackoverflow,ts,ubuntu,spring,py,dotnet,css,html,idea,js,jquery,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ps&perline=12"/>
   </a>
 </p>
 <br>
+<!-------------------------->
+<h2 >Tecnologías conocidas 👨🏻‍💻</h2>
+---
+### Lenguajes de Programación
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,py,js,ts,kotlin" />
+  </a>
+</p>
+
+### Frameworks & Servidores Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,hibernate,nodejs" />
+  </a>
+</p>
+
+### Bases de Datos & Persistencia
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb" />
+  </a>
+</p>
+
+### Frameworks & Librerías Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,jquery,bootstrap,materialui" />
+  </a>
+</p>
+
+### Herramientas de Desarrollo y DevOps
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,eclipse,postman,aws,azure" />
+  </a>
+</p>
+
+### Librerías & Sistemas Específicos
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,linux" />
+  </a>
+</p>
+---
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
