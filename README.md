@@ -22,7 +22,6 @@
 <br>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
----
 <!--tech stack icons-->
 ### Lenguajes de Programación
 <p align="left">
