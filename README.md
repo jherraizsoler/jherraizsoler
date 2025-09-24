@@ -24,47 +24,48 @@
 <!--tech stack icons-->
 <h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
 
+<br>
 <h3 align="center"><b>Lenguajes de Programación</b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,py,js,ts,kotlin" />
   </a>
-</p>
+</p><br>
 
 <h3 align="center"><b>Frameworks & Servidores Backend</b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,dotnet,hibernate,nodejs" />
   </a>
-</p>
+</p> <br>
 
 <h3 align="center"><b>Bases de Datos & Persistencia</b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb" />
   </a>
-</p>
+</p> <br>
 
 <h3 align="center"><b>Frameworks & Librerías Frontend</b></h3> 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,angular,jquery,bootstrap,materialui" />
   </a>
-</p>
+</p><br>
 
 <h3 align="center"><b>Herramientas de Desarrollo y DevOps</b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,eclipse,postman,aws,azure" />
   </a>
-</p>
+</p> <br>
 
 <h3 align="center"><b>Librerías & Sistemas Específicos</b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,androidstudio,linux" />
   </a>
-</p>
+</p> <br>
 
 <!-------------------------->
 <div id="proyectos">
