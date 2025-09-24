@@ -26,8 +26,8 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,csharp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
-    [![My Skills](https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=androidstudio,csharp,java,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,spring,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,azure,csharp,bootstrap,cs,docker,figma,gcp,gradle,hibernate,fastapi,java,flutter,kotlin,maven,mongodb,nginx,npm,obsidian,notion,pnpm,postgres,pycharm,react,sass,stackoverflow,ts,ubuntu,spring,py,dotnet,css,html,idea,js,jquery,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ps&perline=12"/>
   </a>
 </p>
 <br>
