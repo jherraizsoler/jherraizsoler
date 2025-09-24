@@ -22,16 +22,8 @@
 <br>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,azure,csharp,bootstrap,cs,docker,figma,gcp,gradle,hibernate,fastapi,java,flutter,kotlin,maven,mongodb,nginx,npm,obsidian,notion,pnpm,postgres,pycharm,react,sass,stackoverflow,ts,ubuntu,spring,py,dotnet,css,html,idea,js,jquery,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ps&perline=12"/>
-  </a>
-</p>
-<br>
-<!-------------------------->
-<h2 >Tecnologías conocidas 👨🏻‍💻</h2>
 ---
+<!--tech stack icons-->
 ### Lenguajes de Programación
 <p align="left">
   <a href="https://skillicons.dev">
