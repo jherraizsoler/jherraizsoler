@@ -11,10 +11,9 @@
 <p align="left">
 🎓 Tecnico superior en Desarrollo de aplicaciones Multiplataforma
 
-
 💻 3 meses de experiencia en el proceso de desarrollo de software y 6 meses en experiencia profesinal en el mundo IT
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: 💻 A lo largo de mi carrera he asumido roles como desarrollador y programador... ¡y en un futuro quién sabe! ☺️
 
 📫 Contacto: **jorgeherraizsoler@gmail.com**
 <!--Intro end-->
@@ -76,11 +75,10 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Alumnos.jpeg"   alt="IMAGEN" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
     </p>       
 </td>
 <td width="25%" align="center">
