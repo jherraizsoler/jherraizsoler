@@ -31,35 +31,35 @@
   </a>
 </p>
 
-### Frameworks & Servidores Backend
+<h3><b>Frameworks & Servidores Backend</b></h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,dotnet,hibernate,nodejs" />
   </a>
 </p>
 
-### Bases de Datos & Persistencia
+<h3><b>Bases de Datos & Persistencia</b></h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb" />
   </a>
 </p>
 
-### Frameworks & Librerías Frontend
+<h3><b>Frameworks & Librerías Frontend</b></h3> 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,angular,jquery,bootstrap,materialui" />
   </a>
 </p>
 
-### Herramientas de Desarrollo y DevOps
+<h3><b>Herramientas de Desarrollo y DevOps</b></h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,eclipse,postman,aws,azure" />
   </a>
 </p>
 
-### Librerías & Sistemas Específicos
+<h3><b>Librerías & Sistemas Específicos</b></h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,androidstudio,linux" />
