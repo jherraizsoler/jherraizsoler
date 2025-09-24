@@ -68,8 +68,8 @@
 
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
-
+<h2>Algunos proyectos👨🏻‍💻</h2>
+<h4>En desarrollo y mantenimiento.</h4>
 <table align="left" >
   
   <!-- Fila 1 -->
