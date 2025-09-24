@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/jherraizsoler" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jherraizsoler"/></a>
-  <a href = "mailto:jorgeherraizsoler@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  <a href = "mailto:jorgeherraizsoler@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@jherraizsoler"  /></a>
 </p>
 <br>
 <h2 align="center">Sobre mi 😃</h2>
@@ -79,7 +79,7 @@
       </p>
     <p align="center">
       <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="blank"><img align="center" src="<img align="center" src="https://img.shields.io/badge/App-2C3E50?style=for-the-badge&logo=android&logoColor=white" alt="Aplicación"/></a>
+      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="blank"><img align="center"  src="https://img.shields.io/badge/App-2C3E50?style=for-the-badge&logo=android&logoColor=white" alt="Aplicación"/></a>
     </p>       
 </td>
 <td width="25%" align="center">
