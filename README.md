@@ -11,7 +11,7 @@
 <p align="left">
 🎓 Tecnico superior en Desarrollo de aplicaciones Multiplataforma
 
-💻 3 meses de experiencia en el proceso de desarrollo de software y 6 meses en experiencia profesinal en el mundo IT
+💻 3 meses de experiencia en el proceso de desarrollo de software en Hiberus en prácticas y 3 meses en experiencia profesinal en el mundo IT en K-tuin en prácticas
 
 📝 roles en el ámbito: 💻 A lo largo de mi carrera he asumido roles como desarrollador y programador... ¡y en un futuro quién sabe! ☺️
 
