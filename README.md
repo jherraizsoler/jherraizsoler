@@ -76,12 +76,12 @@
 <tr border="none">
  <td width="25%" align="center">
     <p align="center">
-     <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" title="Go to Source">
+     <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Alumnos.jpeg"   alt="IMAGEN"/>
      </a>
     </p>
     <p align="center">
-      <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"                  alt="@jherraizsoler" />
+      <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"                  alt="@jherraizsoler" />
       </a>
       <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio" /></a>
     </p>       
