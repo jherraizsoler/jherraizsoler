@@ -8,7 +8,7 @@
 <h2 align="center">Sobre mi 😃</h2>
 <!--Intro start-->
 
-<p align="center">
+<p align="left">
 🎓 Tecnico superior en Desarrollo de aplicaciones Multiplataforma
 
 
