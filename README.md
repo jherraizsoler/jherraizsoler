@@ -23,8 +23,8 @@
 
 <!--tech stack icons-->
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
-### Frameworks & Servidores Backend
-### Lenguajes de Programación
+
+<h3><b>Lenguajes de Programación</b></h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,py,js,ts,kotlin" />
