@@ -64,7 +64,7 @@
     <img src="https://skillicons.dev/icons?i=flutter,androidstudio,linux" />
   </a>
 </p>
----
+
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
