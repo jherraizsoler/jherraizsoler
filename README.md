@@ -94,7 +94,7 @@
       </p>
     <p align="center">
       <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio" /></a>
+      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
     </p>       
  </td>
 
@@ -105,7 +105,7 @@
       </p>
     <p align="center">
       <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio" /></a>
+      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
     </p>       
  </td>
 
@@ -116,7 +116,7 @@
       </p>
     <p align="center">
       <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio" /></a>
+      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
     </p>       
  </td>
  
@@ -129,7 +129,7 @@
       </p>
     <p align="center">
       <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio" /></a>
+      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
     </p>       
 </td>
 
@@ -140,7 +140,7 @@
       </p>
     <p align="center">
       <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio" /></a>
+      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
     </p>       
 </td>
 
@@ -151,7 +151,7 @@
       </p>
     <p align="center">
       <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio" /></a>
+      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
     </p>       
 </td>
 
@@ -162,7 +162,7 @@
       </p>
     <p align="center">
       <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio" /></a>
+      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
     </p>       
 </td>
 
@@ -177,7 +177,7 @@
       </p>
     <p align="center">
       <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio" /></a>
+      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
     </p>       
  </td>
 
@@ -188,7 +188,7 @@
       </p>
     <p align="center">
       <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio" /></a>
+      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
     </p>       
 </td>
 
