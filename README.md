@@ -21,8 +21,9 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+### Frameworks & Servidores Backend
 ### Lenguajes de Programación
 <p align="left">
   <a href="https://skillicons.dev">
