@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋  soy Jorge / Desarrollador FullStack ✨ </h1> 
 
 <p align="center">
-  <a href="https://linkedin.com/in/jherraizsoler" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jherraizsoler"/></a>
+  <a href="https://www.linkedin.com/in/jorge-herraiz-soler-25679725b/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jherraizsoler"/></a>
   <a href = "mailto:jorgeherraizsoler@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@jherraizsoler"  /></a>
 </p>
 <br>
