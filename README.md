@@ -43,7 +43,7 @@
     <img src="https://skillicons.dev/icons?i=spring,dotnet,hibernate,nodejs"/>
   </a>
 </p> <br
-      
+ 
 <h3 align="center"><b>Bases de Datos & Persistencia</b></h3> 
 <p align="center">
   <a href="https://skillicons.dev">
