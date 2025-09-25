@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋  soy Jorge / Desarrollador FullStack ✨ </h1> 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jorge-herraiz-soler-25679725b/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jherraizsoler"/></a>
-  <a href = "mailto:jorgeherraizsoler@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@jherraizsoler"  /></a>
+  <a href="https://www.linkedin.com/in/jorge-herraiz-soler-25679725b/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jherraizsoler"/></a>
+  <a href = "mailto:jorgeherraizsoler@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@jherraizsoler"  /></a>
 </p>
 <br>
 <h2 align="center">Sobre mi 😃</h2>
@@ -76,14 +76,14 @@
 <tr border="none">
  <td width="25%" align="center">
     <p align="center">
-     <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank" title="Go to Source">
+     <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank"  rel="noopener noreferrer" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Alumnos.jpeg"   alt="IMAGEN"/>
      </a>
     </p>
     <p align="center">
-      <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"                  alt="@jherraizsoler" />
+      <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"                  alt="@jherraizsoler" />
       </a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
+      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
     </p>       
  </td>
 
