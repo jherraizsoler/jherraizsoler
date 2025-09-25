@@ -33,16 +33,16 @@
 <h3 align="center"><b>Lenguajes de Programación</b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,py,js,ts,kotlin" />
+    <img src="https://skillicons.dev/icons?i=java,cs,py,js,ts,kotlin"/>
   </a>
 </p><br>
 
 <h3 align="center"><b>Frameworks & Servidores Backend</b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,dotnet,hibernate,nodejs" />
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,hibernate,nodejs"/>
   </a>
-</p> <br>
+</p> <br
 
 <h3 align="center"><b>Bases de Datos & Persistencia</b></h3>
 <p align="center">
@@ -239,7 +239,11 @@
     </a>
 </div>
 <!--- trophy (start) -->
-
-
 </p>        
 <!--- stats (end) -->
+Credit: [Jorge Herraiz Soler](https://github.com/jherraizsoler)
+
+Ultima actualiación: 25/09/2025
+
+
+     
