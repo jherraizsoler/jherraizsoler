@@ -87,7 +87,9 @@
      </a>
     </p>
     <p align="center">
-      <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"                  alt="@jherraizsoler" />
+     <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank" rel="noopener noreferrer" height="30">
+       <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" alt="@jherraizsoler" />
+     </a>
       </a>
       <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
     </p>       
