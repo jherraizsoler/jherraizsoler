@@ -91,184 +91,179 @@
 <div id="proyectos">
 <h2>Algunos proyectos👨🏻‍💻</h2>
 <h4>En desarrollo y mantenimiento.</h4>
-<table align="left" >
-  
+<table align="left">
+
   <!-- Fila 1 -->
-<tr border="none">
- <td width="25%" align="center">
-    <p align="center">
-     <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank"  rel="noopener noreferrer" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Alumnos.jpeg"   alt="IMAGEN"/>
-     </a>
-    </p>
-    <p align="center">
-     <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank" rel="noopener noreferrer" height="30">
-       <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" alt="@jherraizsoler" />
-     </a>
-      </a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
-    </p>       
- </td>
-
- <td width="25%" align="center">
-    <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Clientes.jpeg"   alt="IMAGEN" /></a>
+  <tr>
+    <td width="25%" align="center">
+      <p align="center">
+        <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank" rel="noopener noreferrer" title="Go to Source">
+          <img align="center" width="100%" src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Alumnos.jpeg" alt="IMAGEN" />
+        </a>
       </p>
-    <p align="center">
-      <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
-    </p>       
- </td>
-
- <td width="25%" align="center">
-    <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_CofradeDome.png"   alt="IMAGEN" /></a>
+      <p align="center">
+        <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank" rel="noopener noreferrer">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" alt="@jherraizsoler" />
+        </a>
+        <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank" rel="noopener noreferrer">
+          <img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" />
+        </a>
       </p>
-    <p align="center">
-      <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
-    </p>       
- </td>
+    </td>
 
- <td width="25%" align="center">
-    <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Gymflow.jpeg"   alt="IMAGEN" /></a>
+    <td width="25%" align="center">
+      <p align="center">
+        <a href="https://jherraizsoler.github.io/portfolio/#proyectos" target="_blank" title="Go to Source">
+          <img align="center" width="100%" src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Clientes.jpeg" alt="IMAGEN" />
+        </a>
       </p>
-    <p align="center">
-      <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
-    </p>       
- </td>
- </tr>
- 
- <!-- Fila 2 -->
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Personas.jpeg"   alt="IMAGEN" /></a>
+      <p align="center">
+        <a href="https://github.com/jherraizsoler/" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" />
+        </a>
+        <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" />
+        </a>
       </p>
-    <p align="center">
-      <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
-    </p>       
-</td>
+    </td>
 
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Presupuestos.jpeg"   alt="IMAGEN" /></a>
+    <td width="25%" align="center">
+      <p align="center">
+        <a href="https://jherraizsoler.github.io/portfolio/#proyectos" target="_blank" title="Go to Source">
+          <img align="center" width="100%" src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_CofradeDome.png" alt="IMAGEN" />
+        </a>
       </p>
-    <p align="center">
-      <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
-    </p>       
-</td>
-
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Productos_Backend.jpeg"   alt="IMAGEN" /></a>
+      <p align="center">
+        <a href="https://github.com/jherraizsoler/" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" />
+        </a>
+        <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" />
+        </a>
       </p>
-    <p align="center">
-      <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
-    </p>       
-</td>
+    </td>
 
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Productos_Frontend.jpeg"   alt="IMAGEN" /></a>
+    <td width="25%" align="center">
+      <p align="center">
+        <a href="https://jherraizsoler.github.io/portfolio/#proyectos" target="_blank" title="Go to Source">
+          <img align="center" width="100%" src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Gymflow.jpeg" alt="IMAGEN" />
+        </a>
       </p>
-    <p align="center">
-      <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
-    </p>       
-</td>
-
-</tr>
-
- <!-- Fila 3 -->
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_WPF_EditorTexto.jpg"   alt="IMAGEN" /></a>
+      <p align="center">
+        <a href="https://github.com/jherraizsoler/" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" />
+        </a>
+        <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" />
+        </a>
       </p>
-    <p align="center">
-      <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
-    </p>       
- </td>
+    </td>
+  </tr>
 
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Zafra_tiendas.jpeg"   alt="IMAGEN" /></a>
+  <!-- Fila 2 -->
+  <tr>
+    <td width="25%" align="center">
+      <p align="center">
+        <a href="https://jherraizsoler.github.io/portfolio/#proyectos" target="_blank" title="Go to Source">
+          <img align="center" width="100%" src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Personas.jpeg" alt="IMAGEN" />
+        </a>
       </p>
-    <p align="center">
-      <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
-    </p>       
-</td>
-</tr>
-
-<!-- Ejemplo fila -->
-
-<tr border="none">
- <td width="25%" align="center">
-    <p align="center">
-     <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank"  rel="noopener noreferrer" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Alumnos.jpeg"   alt="IMAGEN"/>
-     </a>
-    </p>
-    <p align="center">
-     <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank" rel="noopener noreferrer" height="30">
-       <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" alt="@jherraizsoler" />
-     </a>
-      </a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
-    </p>       
- </td>
-
- <td width="25%" align="center">
-    <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Clientes.jpeg"   alt="IMAGEN" /></a>
+      <p align="center">
+        <a href="https://github.com/jherraizsoler/" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" />
+        </a>
+        <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" />
+        </a>
       </p>
-    <p align="center">
-      <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
-    </p>       
- </td>
+    </td>
 
- <td width="25%" align="center">
-    <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_CofradeDome.png"   alt="IMAGEN" /></a>
+    <td width="25%" align="center">
+      <p align="center">
+        <a href="https://jherraizsoler.github.io/portfolio/#proyectos" target="_blank" title="Go to Source">
+          <img align="center" width="100%" src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Presupuestos.jpeg" alt="IMAGEN" />
+        </a>
       </p>
-    <p align="center">
-      <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
-    </p>       
- </td>
+      <p align="center">
+        <a href="https://github.com/jherraizsoler/" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" />
+        </a>
+        <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" />
+        </a>
+      </p>
+    </td>
 
- <td width="25%" align="center">
-    <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Gymflow.jpeg"   alt="IMAGEN" /></a>
+    <td width="25%" align="center">
+      <p align="center">
+        <a href="https://jherraizsoler.github.io/portfolio/#proyectos" target="_blank" title="Go to Source">
+          <img align="center" width="100%" src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Productos_Backend.jpeg" alt="IMAGEN" />
+        </a>
       </p>
-    <p align="center">
-      <a href="https://github.com/jherraizsoler/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" /></a>
-      <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
-    </p>       
- </td>
- </tr>
+      <p align="center">
+        <a href="https://github.com/jherraizsoler/" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" />
+        </a>
+        <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" />
+        </a>
+      </p>
+    </td>
+
+    <td width="25%" align="center">
+      <p align="center">
+        <a href="https://jherraizsoler.github.io/portfolio/#proyectos" target="_blank" title="Go to Source">
+          <img align="center" width="100%" src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Productos_Frontend.jpeg" alt="IMAGEN" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/jherraizsoler/" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" />
+        </a>
+        <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Fila 3 -->
+  <tr>
+    <td width="25%" align="center">
+      <p align="center">
+        <a href="https://jherraizsoler.github.io/portfolio/#proyectos" target="_blank" title="Go to Source">
+          <img align="center" width="100%" src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_WPF_EditorTexto.jpg" alt="IMAGEN" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/jherraizsoler/" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" />
+        </a>
+        <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" />
+        </a>
+      </p>
+    </td>
+
+    <td width="25%" align="center">
+      <p align="center">
+        <a href="https://jherraizsoler.github.io/portfolio/#proyectos" target="_blank" title="Go to Source">
+          <img align="center" width="100%" src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Zafra_tiendas.jpeg" alt="IMAGEN" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/jherraizsoler/" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@jherraizsoler" />
+        </a>
+        <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
 </table>
+
   </div>
 <br>
 <br><br>
