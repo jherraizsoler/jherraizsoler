@@ -96,8 +96,7 @@
   <h2>Algunos proyectos👨🏻‍💻</h2>
   <h4>En desarrollo y mantenimiento.</h4>
   <table align="left">
-
-    <!--- Fila 1 -->
+    <!-- Fila 1 -->
     <tr border="none">
       <td width="25%" align="center">
         <p align="center">
@@ -121,7 +120,6 @@
               alt="WEB" /></a>
         </p>
       </td>
-
       <td width="25%" align="center">
         <p align="center">
           <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
@@ -140,7 +138,6 @@
               alt="WEB" /></a>
         </p>
       </td>
-
       <td width="25%" align="center">
         <p align="center">
           <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
@@ -160,7 +157,6 @@
               alt="WEB" /></a>
         </p>
       </td>
-
       <td width="25%" align="center">
         <p align="center">
           <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
@@ -202,7 +198,6 @@
               alt="WEB" /></a>
         </p>
       </td>
-
       <td width="25%" align="center">
         <p align="center">
           <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
@@ -222,7 +217,6 @@
               alt="WEB" /></a>
         </p>
       </td>
-
       <td width="25%" align="center">
         <p align="center">
           <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
@@ -242,7 +236,6 @@
               alt="WEB" /></a>
         </p>
       </td>
-
       <td width="25%" align="center">
         <p align="center">
           <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
@@ -262,9 +255,7 @@
               alt="WEB" /></a>
         </p>
       </td>
-
     </tr>
-
     <!--- Fila 3 -->
     <tr border="none">
       <td width="25%" align="center">
@@ -286,7 +277,6 @@
               alt="WEB" /></a>
         </p>
       </td>
-
       <td width="25%" align="center">
         <p align="center">
           <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
@@ -324,19 +314,13 @@
 <table align="left">
   <tr border="none">
     <td width="60%" align="center">
-
       <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=jherraizsoler&theme=dark&show_icons=true&count_private=true" />
       <br></br>
-
-
     </td>
-
     <td width="40%" align="center">
-
       <img align="center"
         src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jherraizsoler&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-
     </td>
   </tr>
 </table>
