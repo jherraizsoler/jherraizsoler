@@ -142,6 +142,7 @@
       <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
     </p>       
  </td>
+ </tr>
  
  <!-- Fila 2 -->
 <tr border="none">
