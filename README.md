@@ -112,7 +112,7 @@
 
  <td width="25%" align="center">
     <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/" title="Go to Source">
+     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Clientes.jpeg"   alt="IMAGEN" /></a>
       </p>
     <p align="center">
@@ -123,7 +123,7 @@
 
  <td width="25%" align="center">
     <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/" title="Go to Source">
+     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_CofradeDome.png"   alt="IMAGEN" /></a>
       </p>
     <p align="center">
@@ -134,7 +134,7 @@
 
  <td width="25%" align="center">
     <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/" title="Go to Source">
+     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Gymflow.jpeg"   alt="IMAGEN" /></a>
       </p>
     <p align="center">
@@ -147,7 +147,7 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/" title="Go to Source">
+     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Personas.jpeg"   alt="IMAGEN" /></a>
       </p>
     <p align="center">
@@ -158,7 +158,7 @@
 
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/" title="Go to Source">
+     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Presupuestos.jpeg"   alt="IMAGEN" /></a>
       </p>
     <p align="center">
@@ -169,7 +169,7 @@
 
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/" title="Go to Source">
+     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Productos_Backend.jpeg"   alt="IMAGEN" /></a>
       </p>
     <p align="center">
@@ -180,7 +180,7 @@
 
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/" title="Go to Source">
+     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Productos_Frontend.jpeg"   alt="IMAGEN" /></a>
       </p>
     <p align="center">
@@ -195,7 +195,7 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/" title="Go to Source">
+     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_WPF_EditorTexto.jpg"   alt="IMAGEN" /></a>
       </p>
     <p align="center">
@@ -206,7 +206,7 @@
 
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://jherraizsoler.github.io/portfolio/" title="Go to Source">
+     <a href="https://jherraizsoler.github.io/portfolio/#proyectos" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Zafra_tiendas.jpeg"   alt="IMAGEN" /></a>
       </p>
     <p align="center">
