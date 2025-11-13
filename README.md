@@ -91,7 +91,7 @@
 <div id="proyectos">
 <h2>Algunos proyectos👨🏻‍💻</h2>
 <h4>En desarrollo y mantenimiento.</h4>
-<table align="left" >
+<table align="left">
   
   <!-- Fila 1 -->
 <tr border="none">
