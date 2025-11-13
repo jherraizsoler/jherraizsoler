@@ -36,21 +36,32 @@
 
 <h3 align="center"><b>Frameworks & Servidores Backend</b></h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://spring.io/" target="_blank">
     <img src="https://skillicons.dev/icons?i=spring" title="Spring" />
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
     <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
+  </a>
+  <a href="https://hibernate.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate" />
+  </a>
+  <a href="https://nodejs.org/en" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
   </a>
 </p>
 
-
 <h3 align="center"><b>Bases de Datos & Persistencia</b></h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  </a>
+  <a href="https://www.sqlite.org/index.html" target="_blank">
     <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
   </a>
 </p>
@@ -58,11 +69,19 @@
 
 <h3 align="center"><b>Frameworks & Librerías Frontend</b></h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://react.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" title="React" />
+  </a>
+  <a href="https://angular.io/" target="_blank">
     <img src="https://skillicons.dev/icons?i=angular" title="Angular" />
+  </a>
+  <a href="https://jquery.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=jquery" title="jQuery" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+  </a>
+  <a href="https://mui.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" />
   </a>
 </p>
@@ -70,14 +89,28 @@
 
 <h3 align="center"><b>Herramientas de Desarrollo y DevOps</b></h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  </a>
+  <a href="https://github.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+  </a>
+  <a href="https://www.eclipse.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws" title="AWS" />
+  </a>
+  <a href="https://azure.microsoft.com/en-us/" target="_blank">
     <img src="https://skillicons.dev/icons?i=azure" title="Azure" />
   </a>
 </p>
@@ -85,9 +118,13 @@
 
 <h3 align="center"><b>Librerías & Sistemas Específicos</b></h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://flutter.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
   </a>
 </p> <br>
