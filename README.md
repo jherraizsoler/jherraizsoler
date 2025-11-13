@@ -98,7 +98,7 @@
  <td width="25%" align="center">
     <p align="center">
      <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank"  rel="noopener noreferrer" title="Go to Source">
-  <img align="center" width="100%" src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Alumnos.jpeg"   alt="IMAGEN"/>
+       <img align="center" width="100%" src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Alumnos.jpeg" alt="IMAGEN"/>
      </a>
     </p>
     <p align="center">
@@ -224,27 +224,22 @@
 <br>
 <br><br><br>
 <br><br>
-
-
-<h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
+<h2>GitHub :octocat:</h2>
 <p align="center">
   <!--- stats (start) -->
 <table align="left">
 <tr border="none">
 <td width="60%" align="center">
-
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jherraizsoler&theme=dark&show_icons=true&count_private=true" />
   <br></br> 
-  
-
 </td>
 
 <td width="40%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jherraizsoler&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
-  </td>
+</td>
 </tr>
 </table>
 <!--- stats (end) -->
@@ -253,8 +248,8 @@
 
 <div align=left>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-  <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=jherraizsoler&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+     <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=jherraizsoler&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
 </div>
 <!--- trophy (start) -->
 </p>        
