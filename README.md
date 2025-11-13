@@ -92,10 +92,10 @@
   </a>
 </p> <br>
 
-<div id="proyectos">
+<div id="proyectos" align="center">
   <h2>Algunos proyectos👨🏻‍💻</h2>
   <h4>En desarrollo y mantenimiento.</h4>
-  <table align="left">
+  <table>
     <!-- Fila 1 -->
     <tr border="none">
       <td width="25%" align="center">
