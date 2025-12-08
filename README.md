@@ -18,8 +18,23 @@
 <!--Intro start-->
 
 <p align="left">
-  🎓 Actualmente Máster FP Especialidad en Inteligencia Artificial y Big Data.
-  🎓 Tecnico superior en Desarrollo de aplicaciones Multiplataforma
+  🎓 Actualmente Máster FP Especialidad en Inteligencia Artificial y Big Data. </br>
+  🎓 Tecnico superior en Desarrollo de aplicaciones Multiplataforma </br>
+  🎓 Tecnico en Sistemas microinformatico y redes.</br>
+  
+  💻 3 meses de experiencia en el proceso de desarrollo de software en Hiberus en prácticas.
+  💻 3 meses en experiencia profesinal en el mundo IT en K-tuin en prácticas
+
+  📝 roles en el ámbito: 💻 A lo largo de mi carrera he asumido roles como tecnico de soporte IT, desarrollador / programador... ¡y en un
+  futuro quién sabe! ☺️
+
+  📫 Contacto: **jorgeherraizsoler@gmail.com**
+  <!--Intro end-->
+</p>
+<p align="left"> 🎓 Actualmente Máster FP Especialidad en Inteligencia Artificial y Big Data. </p>
+<p align="left">
+  🎓 Actualmente Máster FP Especialidad en Inteligencia Artificial y Big Data. <br>
+  🎓 Tecnico superior en Desarrollo de aplicaciones Multiplataforma <br>
   🎓 Tecnico en Sistemas microinformatico y redes.
   
   💻 3 meses de experiencia en el proceso de desarrollo de software en Hiberus en prácticas.
@@ -31,6 +46,7 @@
   📫 Contacto: **jorgeherraizsoler@gmail.com**
   <!--Intro end-->
 </p>
+
 <br>
 
 <!--tech stack icons-->
