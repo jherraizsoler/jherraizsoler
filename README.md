@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy Jorge / Desarrollador FullStack ✨ </h1>
+<h1 align="center">Hola 👋 soy Jorge / Desarrollador de Software ✨ </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorge-herraiz-soler-25679725b/" target="_blank" rel="noopener noreferrer">
@@ -18,12 +18,14 @@
 <!--Intro start-->
 
 <p align="left">
+  🎓 Actualmente Máster FP Especialidad en Inteligencia Artificial y Big Data.
   🎓 Tecnico superior en Desarrollo de aplicaciones Multiplataforma
+  🎓 Tecnico en Sistemas microinformatico y redes.
+  
+  💻 3 meses de experiencia en el proceso de desarrollo de software en Hiberus en prácticas.
+  💻 3 meses en experiencia profesinal en el mundo IT en K-tuin en prácticas
 
-  💻 3 meses de experiencia en el proceso de desarrollo de software en Hiberus en prácticas y 3 meses en experiencia
-  profesinal en el mundo IT en K-tuin en prácticas
-
-  📝 roles en el ámbito: 💻 A lo largo de mi carrera he asumido roles como desarrollador y programador... ¡y en un
+  📝 roles en el ámbito: 💻 A lo largo de mi carrera he asumido roles como tecnico de soporte IT, desarrollador / programador... ¡y en un
   futuro quién sabe! ☺️
 
   📫 Contacto: **jorgeherraizsoler@gmail.com**
