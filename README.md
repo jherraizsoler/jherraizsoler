@@ -139,6 +139,28 @@
     <tr border="none">
       <td width="25%" align="center">
         <p align="center">
+          <a href="https://github.com/jherraizsoler/informes_ia_bigdata" target="_blank"
+            rel="noopener noreferrer" title="Go to Source">
+            <img align="center" width="100%"
+              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/Portada_Informes_IA_BigData.png"
+              alt="IMAGEN" />
+          </a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/jherraizsoler/informes_ia_bigdata" target="_blank"
+            rel="noopener noreferrer" height="30">
+            <img align="center"
+              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+              height="30" alt="@jherraizsoler" />
+          </a>
+          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
+            rel="noopener noreferrer"><img align="center"
+              src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white"
+              alt="WEB" /></a>
+        </p>
+      </td>
+      <td width="25%" align="center">
+        <p align="center">
           <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank"
             rel="noopener noreferrer" title="Go to Source">
             <img align="center" width="100%"
@@ -196,6 +218,9 @@
               alt="WEB" /></a>
         </p>
       </td>
+    </tr>
+    <!--- Fila 2 -->
+    <tr border="none">
       <td width="25%" align="center">
         <p align="center">
           <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
@@ -215,9 +240,6 @@
               alt="WEB" /></a>
         </p>
       </td>
-    </tr>
-    <!--- Fila 2 -->
-    <tr border="none">
       <td width="25%" align="center">
         <p align="center">
           <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
@@ -275,7 +297,10 @@
               alt="WEB" /></a>
         </p>
       </td>
-      <td width="25%" align="center">
+    </tr>
+    <!--- Fila 3 -->
+    <tr border="none">
+       <td width="25%" align="center">
         <p align="center">
           <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
             rel="noopener noreferrer" title="Go to Source">
@@ -294,9 +319,6 @@
               alt="WEB" /></a>
         </p>
       </td>
-    </tr>
-    <!--- Fila 3 -->
-    <tr border="none">
       <td width="25%" align="center">
         <p align="center">
           <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
