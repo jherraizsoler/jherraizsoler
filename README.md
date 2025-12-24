@@ -431,6 +431,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jherraizsoler&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="right">
-  <sub><i>Última actualización: 2025-12-24</i></sub>
+<p align="center">
+  <sub><i>Última actualización: 24-12-2025</i></sub>
 </p>
