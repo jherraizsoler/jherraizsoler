@@ -412,10 +412,6 @@
 </div>
 <br>
 <br><br>
-<br>
-<br><br><br>
-<br><br>
-
 
 <h2 align="center">Actividad en GitHub :octocat:</h2>
 
