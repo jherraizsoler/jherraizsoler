@@ -52,9 +52,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=r" title="R Language" />
-  </a>
 </p>
 
 <h3 align="center"><b>Inteligencia Artificial & Data Science</b></h3>
@@ -67,6 +64,9 @@
   </a>
   <a href="https://waikato.github.io/weka-wiki/" target="_blank">
     <img src="https://img.shields.io/badge/Weka-3771B8?style=for-the-badge&logo=generic&logoColor=white" title="Weka Machine Learning" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=r" title="R Language" />
   </a>
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit" />
