@@ -39,6 +39,23 @@
 <!--tech stack icons-->
 <h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
 
+<h3 align="center"><b>Lenguajes de Programación</b></h3>
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" title="Python" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" title="C#" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  </a>
+</p>
+
+
 <h3 align="center"><b>Inteligencia Artificial & Data Science</b></h3>
 <p align="center">
   <a href="https://www.langchain.com/" target="_blank">
