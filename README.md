@@ -50,47 +50,6 @@
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=r" title="R Language" />
   </a>
-  <a href="https://www.cs.waikato.ac.nz/ml/weka/" target="_blank">
-    <img src="https://img.shields.io/badge/Weka-3771B8?style=for-the-badge&logo=databricks&logoColor=white" title="Weka Machine Learning" />
-  </a>
-</p>
-
-<h3 align="center"><b>Frameworks & Servidores Backend</b></h3>
-<p align="center">
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spring" title="Spring" />
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
-  </a>
-  <a href="https://hibernate.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate" />
-  </a>
-  <a href="https://nodejs.org/en" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-  </a>
-</p>
-
-He revisado todas las tecnologías que hemos mencionado y he verificado los enlaces oficiales, los nombres técnicos y los "slugs" de los iconos para que no falle ninguno al cargar en tu GitHub.
-
-Aquí tienes el bloque completo y definitivo. He unificado los estilos para que se vea simétrico y profesional.
-
-🚀 Código para tu README.md
-HTML
-
-<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
-
-<h3 align="center"><b>Inteligencia Artificial & Data Science</b></h3>
-<p align="center">
-  <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" title="LangChain" />
-  </a>
-  <a href="https://langchain-ai.github.io/langgraph/" target="_blank">
-    <img src="https://img.shields.io/badge/LangGraph-2C4C4C?style=for-the-badge&logo=nodes&logoColor=white" title="LangGraph" />
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=r" title="R Language" />
-  </a>
   <a href="https://waikato.github.io/weka-wiki/" target="_blank">
     <img src="https://img.shields.io/badge/Weka_ML-3771B8?style=for-the-badge&logo=generic&logoColor=white" title="Weka Machine Learning" />
   </a>
