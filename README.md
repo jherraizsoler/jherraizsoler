@@ -39,6 +39,22 @@
 <!--tech stack icons-->
 <h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
 
+<h3 align="center"><b>Inteligencia Artificial & Data Science</b></h3>
+<p align="center">
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" title="LangChain" />
+  </a>
+  <a href="https://langchain-ai.github.io/langgraph/" target="_blank">
+    <img src="https://img.shields.io/badge/LangGraph-2C4C4C?style=for-the-badge&logo=nodes&logoColor=white" title="LangGraph" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=r" title="R Language" />
+  </a>
+  <a href="https://www.cs.waikato.ac.nz/ml/weka/" target="_blank">
+    <img src="https://img.shields.io/badge/Weka-3771B8?style=for-the-badge&logo=databricks&logoColor=white" title="Weka Machine Learning" />
+  </a>
+</p>
+
 <h3 align="center"><b>Frameworks & Servidores Backend</b></h3>
 <p align="center">
   <a href="https://spring.io/" target="_blank">
