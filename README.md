@@ -417,21 +417,20 @@
 <br><br>
 
 
-<h2 align="center">Actividad y Repositorios :octocat:</h2>
+<h2 align="center">Actividad en GitHub :octocat:</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/jherraizsoler?label=Seguidores&style=for-the-badge&color=21262d" />
-  <img src="https://img.shields.io/github/stars/jherraizsoler?label=Estrellas%20Totales&style=for-the-badge&color=21262d" />
-  <img src="https://img.shields.io/github/repo-size/jherraizsoler/helpdesk_system?label=Proyecto%20Helpdesk&style=for-the-badge&color=0078D4" />
+  <img src="https://img.shields.io/github/followers/jherraizsoler?label=Seguidores&style=for-the-badge&color=21262d&logo=github" />
+  <img src="https://img.shields.io/github/stars/jherraizsoler?label=Estrellas%20Totales&style=for-the-badge&color=21262d&logo=github" />
+  
+  <img src="https://img.shields.io/github/languages/top/jherraizsoler/curso_langchain?label=Top%20Language&style=for-the-badge&color=0078D4" />
 </p>
 
-<h3 align="center">Contribuciones</h3>
+<h3 align="center">Gráfico de Contribuciones</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jherraizsoler&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<br />
-<!--- stats (end) -->
-Credit: [Jorge Herraiz Soler](https://github.com/jherraizsoler)
-
-Ultima actualiación: 25/09/2025
+<p align="right">
+  <sub><i>Última actualización: 2025-12-24</i></sub>
+</p>
