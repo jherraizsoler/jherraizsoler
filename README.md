@@ -76,14 +76,23 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mssql" title="SQL Server" />
+  </a>
+  <a href="https://www.oracle.com/database/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=oracle" title="Oracle" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+  </a>
+  <a href="https://www.sqlite.org/index.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
+  </a>
+  <a href="http://exist-db.org/" target="_blank">
+    <img src="https://img.shields.io/badge/ExistDB-B22222?style=for-the-badge&logo=xml&logoColor=white" title="eXist-db" />
   </a>
 </p>
 
