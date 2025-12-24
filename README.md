@@ -36,7 +36,6 @@
 </p>
 <br>
 
-<!--tech stack icons-->
 <h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
 
 <h3 align="center"><b>Lenguajes de Programación</b></h3>
@@ -53,11 +52,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=r" title="R Language" />
   </a>
 </p>
-
 
 <h3 align="center"><b>Inteligencia Artificial & Data Science</b></h3>
 <p align="center">
@@ -67,9 +65,6 @@
   <a href="https://langchain-ai.github.io/langgraph/" target="_blank">
     <img src="https://img.shields.io/badge/LangGraph-2C4C4C?style=for-the-badge&logo=nodes&logoColor=white" title="LangGraph" />
   </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=r" title="R Language" />
-  </a>
   <a href="https://waikato.github.io/weka-wiki/" target="_blank">
     <img src="https://img.shields.io/badge/Weka-3771B8?style=for-the-badge&logo=generic&logoColor=white" title="Weka Machine Learning" />
   </a>
@@ -78,13 +73,29 @@
   </a>
 </p>
 
+<h3 align="center"><b>Frameworks & Servidores Backend</b></h3>
+<p align="center">
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spring" title="Spring" />
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
+  </a>
+  <a href="https://hibernate.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate" />
+  </a>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  </a>
+</p>
+
 <h3 align="center"><b>Bases de Datos & Persistencia</b></h3>
 <p align="center">
-  <a href="https://www.oracle.com/database/" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" title="Oracle" />
-  </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://img.shields.io/badge/SQL_Server-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" title="SQL Server" />
+  </a>
+  <a href="https://www.oracle.com/database/" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" title="Oracle" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
@@ -103,8 +114,14 @@
   </a>
 </p>
 
-<h3 align="center"><b>Frameworks & Librerías Frontend</b></h3>
+<h3 align="center"><b>Frameworks & Librerías Frontend / Mobile</b></h3>
 <p align="center">
+  <a href="https://developer.android.com/jetpack/compose" target="_blank">
+    <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" title="Jetpack Compose" />
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
+  </a>
   <a href="https://react.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" title="React" />
   </a>
@@ -121,7 +138,6 @@
     <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" />
   </a>
 </p>
-
 
 <h3 align="center"><b>Herramientas de Desarrollo y DevOps</b></h3>
 <p align="center">
@@ -149,11 +165,10 @@
   <a href="https://azure.microsoft.com/en-us/" target="_blank">
     <img src="https://skillicons.dev/icons?i=azure" title="Azure" />
   </a>
-   <a href="https://developer.android.com/studio" target="_blank">
+  <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
   </a>
 </p>
-
 
 <h3 align="center"><b>Sistemas Operativos</b></h3>
 <p align="center">
