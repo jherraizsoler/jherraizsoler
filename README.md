@@ -25,8 +25,11 @@
   💻 3 meses de experiencia en el proceso de desarrollo de software en Hiberus en prácticas. </br>
   💻 3 meses en experiencia profesinal en el mundo IT en K-tuin en prácticas </br>
 
+  💻 Desarrollados y documentados más de 25 proyectos en tecnologías punteras</br>
+
   📝 roles en el ámbito: 💻 A lo largo de mi carrera he asumido roles como tecnico de soporte IT, desarrollador / programador... ¡y en un
   futuro quién sabe! ☺️</br>
+
 
   📫 Contacto: **jorgeherraizsoler@gmail.com**
   <!--Intro end-->
@@ -132,8 +135,7 @@
 </p> <br>
 
 <div id="proyectos" align="center">
-  <h2>Algunos proyectos👨🏻‍💻</h2>
-  <h4>En desarrollo y mantenimiento.</h4>
+  <h2>Proyectos más relevantes:👨🏻‍💻</h2>
   <table>
     <!-- Fila 1 -->
     <tr border="none">
