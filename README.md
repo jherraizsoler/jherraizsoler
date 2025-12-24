@@ -53,6 +53,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
+  </a>
 </p>
 
 
@@ -146,21 +149,22 @@
   <a href="https://azure.microsoft.com/en-us/" target="_blank">
     <img src="https://skillicons.dev/icons?i=azure" title="Azure" />
   </a>
+   <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
+  </a>
 </p>
 
 
-<h3 align="center"><b>Librerías & Sistemas Específicos</b></h3>
+<h3 align="center"><b>Sistemas Operativos</b></h3>
 <p align="center">
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
   </a>
-</p> <br>
+</p>
+<br>
 
 <div id="proyectos" align="center">
   <h2>Proyectos más relevantes:👨🏻‍💻</h2>
