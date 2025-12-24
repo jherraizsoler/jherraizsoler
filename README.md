@@ -42,7 +42,7 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Sectores Clave</h3>
+      <h3 align="center">🚀 Sectores Clave</h3>
       <ul>
         <li><b>IA & Data Solutions:</b> Implementación de modelos RAG y agentes inteligentes con <b>Python</b> y LangChain.</li>
         <li><b>Sistemas Enterprise:</b> Desarrollo de software robusto para banca y retail utilizando <b>Java</b> y <b>.NET</b>.</li>
@@ -50,7 +50,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Mi Valor Diferencial</h3>
+      <h3  align="center">🤖 Mi Valor Diferencial</h3>
       <ul>
         <li><b>Perfil Híbrido:</b> Capacidad para unir el desarrollo tradicional (Backend/Frontend) con soluciones modernas de <b>Inteligencia Artificial</b>.</li>
         <li><b>Fullstack Multiplataforma:</b> Experiencia creando soluciones tanto para escritorio (WPF) como móvil (Flutter/Compose) y web.</li>
