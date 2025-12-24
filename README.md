@@ -417,35 +417,29 @@
 <br><br>
 
 
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="left">
-  <tr border="none">
-    <td width="60%" align="center">
-      <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=jherraizsoler&theme=dark&show_icons=true&count_private=true" />
-      <br></br>
+<h2 align="center">GitHub Stats & Achievements :octocat:</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=jherraizsoler&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt="Estadísticas de jherraizsoler" />
     </td>
-    <td width="40%" align="center">
-      <img align="center"
-        src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jherraizsoler&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jherraizsoler&theme=dark&layout=compact&langs_count=8" alt="Lenguajes más usados" />
     </td>
   </tr>
 </table>
-<!--- stats (end) -->
 
-<!--- trophy (start) -->
+<br />
 
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width="84%"
-      src="https://github-profile-trophy.vercel.app/?username=jherraizsoler&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true"
-      alt="TROPHY" />
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jherraizsoler&theme=radical&row=1&column=7&no-bg=true&no-frame=false" width="90%" alt="jherraizsoler trophies" />
   </a>
-</div>
-<!--- trophy (start) -->
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jherraizsoler&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 <!--- stats (end) -->
 Credit: [Jorge Herraiz Soler](https://github.com/jherraizsoler)
