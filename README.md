@@ -422,9 +422,9 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/jherraizsoler?label=Seguidores&style=for-the-badge&color=21262d&logo=github" />
   <img src="https://img.shields.io/github/stars/jherraizsoler?label=Estrellas%20Totales&style=for-the-badge&color=21262d&logo=github" />
-  
-  <img src="https://img.shields.io/github/languages/top/jherraizsoler/curso_langchain?label=Top%20Language&style=for-the-badge&color=0078D4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jherraizsoler&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Lenguajes más usados por jherraizsoler" />
 </p>
+
 
 <h3 align="center">Gráfico de Contribuciones</h3>
 <p align="center">
