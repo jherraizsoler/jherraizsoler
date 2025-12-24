@@ -51,7 +51,7 @@
     <img src="https://skillicons.dev/icons?i=r" title="R Language" />
   </a>
   <a href="https://waikato.github.io/weka-wiki/" target="_blank">
-    <img src="https://img.shields.io/badge/Weka_ML-3771B8?style=for-the-badge&logo=generic&logoColor=white" title="Weka Machine Learning" />
+    <img src="https://img.shields.io/badge/Weka-3771B8?style=for-the-badge&logo=generic&logoColor=white" title="Weka Machine Learning" />
   </a>
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit" />
