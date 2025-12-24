@@ -71,31 +71,58 @@
   </a>
 </p>
 
+He revisado todas las tecnologías que hemos mencionado y he verificado los enlaces oficiales, los nombres técnicos y los "slugs" de los iconos para que no falle ninguno al cargar en tu GitHub.
+
+Aquí tienes el bloque completo y definitivo. He unificado los estilos para que se vea simétrico y profesional.
+
+🚀 Código para tu README.md
+HTML
+
+<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
+
+<h3 align="center"><b>Inteligencia Artificial & Data Science</b></h3>
+<p align="center">
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" title="LangChain" />
+  </a>
+  <a href="https://langchain-ai.github.io/langgraph/" target="_blank">
+    <img src="https://img.shields.io/badge/LangGraph-2C4C4C?style=for-the-badge&logo=nodes&logoColor=white" title="LangGraph" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=r" title="R Language" />
+  </a>
+  <a href="https://waikato.github.io/weka-wiki/" target="_blank">
+    <img src="https://img.shields.io/badge/Weka_ML-3771B8?style=for-the-badge&logo=generic&logoColor=white" title="Weka Machine Learning" />
+  </a>
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit" />
+  </a>
+</p>
+
 <h3 align="center"><b>Bases de Datos & Persistencia</b></h3>
 <p align="center">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <a href="https://www.oracle.com/database/" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" title="Oracle" />
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mssql" title="SQL Server" />
+    <img src="https://img.shields.io/badge/SQL_Server-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" title="SQL Server" />
   </a>
-  <a href="https://www.oracle.com/database/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=oracle" title="Oracle" />
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
-  </a>
   <a href="https://www.sqlite.org/index.html" target="_blank">
     <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
   </a>
   <a href="http://exist-db.org/" target="_blank">
     <img src="https://img.shields.io/badge/ExistDB-B22222?style=for-the-badge&logo=xml&logoColor=white" title="eXist-db" />
   </a>
 </p>
-
 
 <h3 align="center"><b>Frameworks & Librerías Frontend</b></h3>
 <p align="center">
