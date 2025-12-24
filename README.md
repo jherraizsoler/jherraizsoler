@@ -36,6 +36,34 @@
 </p>
 <br>
 
+
+<h2 align="center">Especialización y Enfoque Profesional 🎯</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Sectores Clave</h3>
+      <ul>
+        <li><b>IA & Data Solutions:</b> Implementación de modelos RAG y agentes inteligentes con <b>Python</b> y LangChain.</li>
+        <li><b>Sistemas Enterprise:</b> Desarrollo de software robusto para banca y retail utilizando <b>Java</b> y <b>.NET</b>.</li>
+        <li><b>Infraestructura:</b> Gestión de entornos escalables y despliegues en la nube con <b>AWS</b> y <b>Azure</b>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Mi Valor Diferencial</h3>
+      <ul>
+        <li><b>Perfil Híbrido:</b> Capacidad para unir el desarrollo tradicional (Backend/Frontend) con soluciones modernas de <b>Inteligencia Artificial</b>.</li>
+        <li><b>Fullstack Multiplataforma:</b> Experiencia creando soluciones tanto para escritorio (WPF) como móvil (Flutter/Compose) y web.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>"Transformando datos en decisiones mediante IA y construyendo infraestructuras sólidas con tecnologías Cloud."</i>
+</p>
+<br>
+
 <h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
 
 <h3 align="center"><b>Lenguajes de Programación</b></h3>
