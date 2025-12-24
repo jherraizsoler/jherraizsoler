@@ -417,30 +417,20 @@
 <br><br>
 
 
-<h2 align="center">GitHub Stats & Achievements :octocat:</h2>
+<h2 align="center">Actividad y Repositorios :octocat:</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=jherraizsoler&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt="Estadísticas de jherraizsoler" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jherraizsoler&theme=dark&layout=compact&langs_count=8" alt="Lenguajes más usados" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/jherraizsoler?label=Seguidores&style=for-the-badge&color=21262d" />
+  <img src="https://img.shields.io/github/stars/jherraizsoler?label=Estrellas%20Totales&style=for-the-badge&color=21262d" />
+  <img src="https://img.shields.io/github/repo-size/jherraizsoler/helpdesk_system?label=Proyecto%20Helpdesk&style=for-the-badge&color=0078D4" />
+</p>
+
+<h3 align="center">Contribuciones</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <br />
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jherraizsoler&theme=radical&row=1&column=7&no-bg=true&no-frame=false" width="90%" alt="jherraizsoler trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jherraizsoler&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
 <!--- stats (end) -->
 Credit: [Jorge Herraiz Soler](https://github.com/jherraizsoler)
 
