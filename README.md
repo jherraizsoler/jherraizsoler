@@ -212,7 +212,6 @@
 <div id="proyectos" align="center">
   <h2>Proyectos más relevantes:👨🏻‍💻</h2>
   <table>
-    <!-- https://github.com/jherraizsoler/LangGraph-LangChain-Agentic-Workflows-->
     <!-- Fila 1 -->
     <tr border="none">
       <td width="25%" align="center">
@@ -220,7 +219,7 @@
           <a href="https://github.com/jherraizsoler/LangGraph-LangChain-Agentic-Workflows" target="_blank"
             rel="noopener noreferrer" title="Go to Source">
             <img align="center" width="100%"
-              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/portada_proyecto_LangChain_LangGraph.png"
+              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/portada_proyecto_LangChain_LangGraph.png"
               alt="IMAGEN" />
           </a>
         </p>
