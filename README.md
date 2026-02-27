@@ -28,7 +28,7 @@
   📂 Desarrollados y documentados más de 30 proyectos en tecnologías punteras y FullStack</br>
   📂 Desarrollados y documentados 10 proyectos en tecnologías punteras en Inteligencia Artificial y Big Data</br>
   
-  📝 roles en el ámbito: 💻 A lo largo de mi carrera he asumido roles como tecnico de soporte IT, desarrollador / programador... ¡y en un
+  📝 roles en el ámbito: 💻 A lo largo de mi carrera he asumido roles como tecnico de soporte IT, desarrollador / programador, Developer FullStack AI ... ¡y en un
   futuro quién sabe! ☺️</br>
 
 
