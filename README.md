@@ -221,7 +221,7 @@
           <a href=" https://github.com/jherraizsoler/Nexus-Strategy-Engine" target="_blank"
             rel="noopener noreferrer" title="Go to Source">
             <img align="center" width="100%"
-              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/portada_nexus.png"
+              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/banner_Nexus.png"
               alt="IMAGEN" />
           </a>
         </p>
