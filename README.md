@@ -531,5 +531,5 @@
 </p>
 
 <p align="center">
-  <sub><i>Última actualización: 24-12-2025</i></sub>
+  <sub><i>Última actualización: 02-06-2026</i></sub>
 </p>
