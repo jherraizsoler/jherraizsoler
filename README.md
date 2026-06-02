@@ -1,4 +1,14 @@
-<h1 align="center">Hola 👋 soy Jorge / Desarrollador FullStack IA ✨ </h1>
+<h1 align="center">
+🚀 Jorge Herraiz Soler
+</h1>
+
+<h3 align="center">
+Full Stack AI Developer | AI Solutions Engineer
+</h3>
+
+<p align="center">
+Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desarrollo Full Stack Empresarial
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorge-herraiz-soler-25679725b/" target="_blank" rel="noopener noreferrer">
