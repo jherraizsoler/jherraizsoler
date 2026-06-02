@@ -12,537 +12,179 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorge-herraiz-soler-25679725b/" target="_blank" rel="noopener noreferrer">
-    <img align="center"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="jherraizsoler" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="mailto:jorgeherraizsoler@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="@jherraizsoler" />
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
 </p>
 <br>
-<h2 align="center">Sobre mi 😃</h2>
-<!--Intro start-->
+
+<h2 align="center">Sobre mí 😃</h2>
 
 <p align="left">
-  🎓 Actualmente Máster FP Especialidad en Inteligencia Artificial y Big Data. </br>
-  🎓 Técnico superior en Desarrollo de aplicaciones Multiplataforma </br>
-  🎓 Técnico en Sistemas microinformatico y redes.</br>
+  🎓 <b>Máster FP Especialidad en Inteligencia Artificial y Big Data</b> <br>
+  🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) <br>
+  🎓 Técnico en Sistemas Microinformáticos y Redes (SMR) <br><br>
   
-  💻 3 meses de experiencia en el proceso de desarrollo de software en Hiberus en prácticas. </br>
-  💻 3 meses en experiencia profesional en el mundo IT en K-tuin en prácticas </br>
+  💼 <b>Experiencia Profesional:</b><br>
+  🚀 <b>Developer Full Stack IA en Deveco</b> (Febrero 2026 - Actualidad): Diseñando e implementando soluciones empresariales que integran IA Generativa, agentes autónomos y arquitecturas de microservicios.<br>
+  💻 3 meses de experiencia en desarrollo de software en <b>Hiberus</b> (Prácticas).<br>
+  🛠️ 3 meses de experiencia en soporte e infraestructura IT en <b>K-tuin</b> (Prácticas).<br><br>
 
-  📂 He desarrollado y documentado 10 proyectos en tecnologías punteras en Inteligencia Artificial y Big Data</br>
-  📂 He desarrollado y documentado más de 30 proyectos en tecnologías punteras y FullStack</br>
+  📂 <b>Impacto en Proyectos:</b><br>
+  🤖 He desarrollado y desplegado más de <b>11 proyectos empresariales de IA y Automatización</b> en sectores clave (Médico, Asegurador, Industria, Call Centers de IA).<br>
+  💻 Más de <b>30 proyectos FullStack</b> creados y documentados.<br><br>
   
-  📝 roles en el ámbito: 💻 A lo largo de mi carrera he asumido roles como técnico de soporte IT, desarrollador / programador, Developer FullStack AI ... ¡y en un
-  futuro quién sabe! ☺️</br>
-
-
-  📫 Contacto: **jorgeherraizsoler@gmail.com**
-  <!--Intro end-->
+  📫 Contacto: <b>jorgeherraizsoler@gmail.com</b>
 </p>
 <br>
-
 
 <h2 align="center">Especialización y Enfoque Profesional 🎯</h2>
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 Sectores Clave</h3>
+      <h3 align="center">🚀 Sectores Clave (Deveco)</h3>
       <ul>
-        <li><b>IA & Data Solutions:</b> Implementación de modelos RAG y agentes inteligentes con <b>Python</b> y LangChain.</li>
-        <li><b>Sistemas Enterprise:</b> Desarrollo de software robusto para banca y retail utilizando <b>Java</b> y <b>.NET</b>.</li>
-        <li><b>Infraestructura:</b> Gestión de entornos escalables y despliegues en la nube con <b>AWS</b> y <b>Azure</b>.</li>
+        <li><b>IA & Data Agents:</b> Orquestación de flujos y agentes inteligentes avanzados con <b>LangChain</b>, <b>LangGraph</b> y <b>n8n</b>.</li>
+        <li><b>Sistemas Enterprise & Cloud:</b> Microservicios y backend robusto usando <b>Python</b>, <b>Java/.NET</b> y arquitecturas modernas en la nube (<b>Azure</b>, <b>Supabase</b>).</li>
+        <li><b>Automatización & DevOps:</b> Flujos de trabajo industriales, OCR, infraestructura contenerizada con <b>Docker</b> y despliegues automáticos.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3  align="center">🤖 Mi Valor Diferencial</h3>
+      <h3 align="center">🤖 Mi Valor Diferencial</h3>
       <ul>
-        <li><b>Perfil Híbrido:</b> Capacidad para unir el desarrollo tradicional (Backend/Frontend) con soluciones modernas de <b>Inteligencia Artificial</b>.</li>
-        <li><b>Fullstack Multiplataforma:</b> Experiencia creando soluciones tanto para escritorio (WPF) como móvil (Flutter/Compose) y web.</li>
+        <li><b>Perfil Híbrido Real:</b> Conecto el desarrollo tradicional (Frontend/Backend) con automatizaciones de negocio e <b>IA Generativa</b>.</li>
+        <li><b>Polivalencia de Roles:</b> Experiencia actuando como Consultor, Arquitecto de Soluciones, Ingeniero de Prompts y DevOps.</li>
+        <li><b>Innovación Multidisciplinar:</b> Desde visión computacional y modelos de voz hasta herramientas de nicho como <b>3D Slicer / Trame</b> para medicina.</li>
       </ul>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <i>"Transformando datos en decisiones mediante IA y construyendo infraestructuras sólidas con tecnologías Cloud."</i>
+  <i>"Transformando procesos tradicionales en ecosistemas inteligentes y automatizados listos para producción."</i>
 </p>
 <br>
 
-<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
+<h2 align="center">Tecnologías conocidas 👨🏻‍💻</h2>
 
 <h3 align="center"><b>Lenguajes de Programación</b></h3>
 <p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py" title="Python" />
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" title="Java" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs" title="C#" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,cs" title="Languages" />
 </p>
 
-<h3 align="center"><b>Inteligencia Artificial & Data Science</b></h3>
+<h3 align="center"><b>Inteligencia Artificial & Automatización de Procesos</b></h3>
 <p align="center">
-  <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" title="LangChain" />
-  </a>
-  <a href="https://langchain-ai.github.io/langgraph/" target="_blank">
-    <img src="https://img.shields.io/badge/LangGraph-2C4C4C?style=for-the-badge&logo=nodes&logoColor=white" title="LangGraph" />
-  </a>
-  <a href="https://waikato.github.io/weka-wiki/" target="_blank">
-    <img src="https://img.shields.io/badge/Weka-3771B8?style=for-the-badge&logo=generic&logoColor=white" title="Weka Machine Learning" />
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=r" title="R Language" />
-  </a>
-  <a href="https://streamlit.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit" />
-  </a>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" title="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-2C4C4C?style=for-the-badge&logo=nodes&logoColor=white" title="LangGraph" />
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" title="n8n" />
+  <img src="https://img.shields.io/badge/Vapi_Voz-4F46E5?style=for-the-badge" title="Vapi Voice AI" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" title="Twilio" />
+  <img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit" />
 </p>
 
-<h3 align="center"><b>Frameworks & Servidores Backend</b></h3>
+<h3 align="center"><b>Frameworks, Frontend & Backend</b></h3>
 <p align="center">
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spring" title="Spring" />
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
-  </a>
-  <a href="https://hibernate.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate" />
-  </a>
-  <a href="https://nodejs.org/en" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,angular,spring,dotnet,nodejs,express,flutter" title="Frameworks" />
 </p>
 
-<h3 align="center"><b>Bases de Datos & Persistencia</b></h3>
+<h3 align="center"><b>Bases de Datos & Cloud BaaS</b></h3>
 <p align="center">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://img.shields.io/badge/SQL_Server-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" title="SQL Server" />
-  </a>
-  <a href="https://www.oracle.com/database/" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" title="Oracle" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
-  </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
-  </a>
-  <a href="http://exist-db.org/" target="_blank">
-    <img src="https://img.shields.io/badge/ExistDB-B22222?style=for-the-badge&logo=xml&logoColor=white" title="eXist-db" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,mysql,sqlite" title="Data & Cloud" />
+  <img src="https://img.shields.io/badge/SQL_Server-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" title="SQL Server" />
 </p>
 
-<h3 align="center"><b>Frameworks & Librerías Frontend / Mobile</b></h3>
+<h3 align="center"><b>Herramientas, DevOps & Entornos</b></h3>
 <p align="center">
-  <a href="https://developer.android.com/jetpack/compose" target="_blank">
-    <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" title="Jetpack Compose" />
-  </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" title="React" />
-  </a>
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=angular" title="Angular" />
-  </a>
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=jquery" title="jQuery" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
-  </a>
-  <a href="https://mui.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" />
-  </a>
-</p>
-
-<h3 align="center"><b>Herramientas de Desarrollo y DevOps</b></h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" title="Git" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
-  </a>
-  <a href="https://www.eclipse.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" title="AWS" />
-  </a>
-  <a href="https://azure.microsoft.com/en-us/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=azure" title="Azure" />
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
-  </a>
-</p>
-
-<h3 align="center"><b>Sistemas Operativos</b></h3>
-<p align="center">
-  <a href="https://www.microsoft.com/windows" target="_blank">
-    <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=docker,azure,aws,git,github,vscode,salesforce" title="DevOps & Tools" />
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" title="Portainer" />
 </p>
 <br>
 
 <div id="proyectos" align="center">
-  <h2>Proyectos más relevantes:👨🏻‍💻</h2>
+  <h2>Proyectos más relevantes 👨🏻‍💻</h2>
   <table>
     <!-- Fila 1 -->
-    <tr border="none">
+    <tr>
       <td width="25%" align="center">
-        <p align="center">
-          <a href=" https://github.com/jherraizsoler/Nexus-Strategy-Engine" target="_blank"
-            rel="noopener noreferrer" title="Go to Source">
-            <img align="center" width="100%"
-              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/banner_Nexus.png"
-              alt="IMAGEN" />
-          </a>
-        </p>
-        <p align="center">
-          <a href=" https://github.com/jherraizsoler/Nexus-Strategy-Engine" target="_blank"
-            rel="noopener noreferrer" height="30">
-            <img align="center"
-              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-              height="30" alt="@jherraizsoler" />
-          </a>
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer"><img align="center"
-              src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white"
-              alt="WEB" /></a>
-        </p>
-      </td>
-       <td width="25%" align="center">
-        <p align="center">
-          <a href="https://github.com/jherraizsoler/OmniCare-AI" target="_blank"
-            rel="noopener noreferrer" title="Go to Source">
-            <img align="center" width="100%"
-              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/banner_github_OmniCareAI.png"
-              alt="IMAGEN" />
-          </a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/jherraizsoler/OmniCare-AI" target="_blank"
-            rel="noopener noreferrer" height="30">
-            <img align="center"
-              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-              height="30" alt="@jherraizsoler" />
-          </a>
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer"><img align="center"
-              src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white"
-              alt="WEB" /></a>
-        </p>
+        <a href="https://github.com/jherraizsoler/Nexus-Strategy-Engine" target="_blank">
+          <img src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/banner_Nexus.png" width="100%" alt="Nexus" />
+        </a>
+        <br><br>
+        <a href="https://github.com/jherraizsoler/Nexus-Strategy-Engine" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
       </td>
       <td width="25%" align="center">
-        <p align="center">
-          <a href="https://github.com/jherraizsoler/LangGraph-LangChain-Agentic-Workflows" target="_blank"
-            rel="noopener noreferrer" title="Go to Source">
-            <img align="center" width="100%"
-              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/portada_pequeña_proyecto_LangChain_LangGraph.png"
-              alt="IMAGEN" />
-          </a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/jherraizsoler/informes_ia_bigdata" target="_blank"
-            rel="noopener noreferrer" height="30">
-            <img align="center"
-              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-              height="30" alt="@jherraizsoler" />
-          </a>
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer"><img align="center"
-              src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white"
-              alt="WEB" /></a>
-        </p>
+        <a href="https://github.com/jherraizsoler/OmniCare-AI" target="_blank">
+          <img src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/banner_github_OmniCareAI.png" width="100%" alt="OmniCare AI" />
+        </a>
+        <br><br>
+        <a href="https://github.com/jherraizsoler/OmniCare-AI" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
       </td>
       <td width="25%" align="center">
-        <p align="center">
-          <a href="https://github.com/jherraizsoler/informes_ia_bigdata" target="_blank"
-            rel="noopener noreferrer" title="Go to Source">
-            <img align="center" width="100%"
-              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/Portada_Informes_IA_BigData.png"
-              alt="IMAGEN" />
-          </a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/jherraizsoler/informes_ia_bigdata" target="_blank"
-            rel="noopener noreferrer" height="30">
-            <img align="center"
-              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-              height="30" alt="@jherraizsoler" />
-          </a>
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer"><img align="center"
-              src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white"
-              alt="WEB" /></a>
-        </p>
+        <a href="https://github.com/jherraizsoler/LangGraph-LangChain-Agentic-Workflows" target="_blank">
+          <img src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/portada_pequeña_proyecto_LangChain_LangGraph.png" width="100%" alt="Agentic Workflows" />
+        </a>
+        <br><br>
+        <a href="https://github.com/jherraizsoler/LangGraph-LangChain-Agentic-Workflows" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
+      </td>
+      <td width="25%" align="center">
+        <a href="https://github.com/jherraizsoler/informes_ia_bigdata" target="_blank">
+          <img src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/Portada_Informes_IA_BigData.png" width="100%" alt="Informes" />
+        </a>
+        <br><br>
+        <a href="https://github.com/jherraizsoler/informes_ia_bigdata" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
       </td>
     </tr>
-    <!--- Fila 2 -->
-    <tr border="none">
+    <!-- Fila 2 -->
+    <tr>
       <td width="25%" align="center">
-        <p align="center">
-          <a href="https://github.com/jherraizsoler/RetailApp.Backend" target="_blank"
-            rel="noopener noreferrer" title="Go to Source">
-            <img align="center" width="100%"
-              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Zafra_tiendas.jpeg"
-              alt="IMAGEN" />
-          </a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/jherraizsoler/RetailApp.Backend" target="_blank" rel="noopener noreferrer"
-            title="Go to Source">
-            <img align="center"
-              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-              alt="@jherraizsoler" />
-          </a>
-          </a>
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer" title="Go to Source"><img align="center"
-            rel="noopener noreferrer"><img align="center"
-              src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white"
-              alt="WEB" /></a>
-        </p>
+        <a href="https://github.com/jherraizsoler/RetailApp.Backend" target="_blank">
+          <img src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Zafra_tiendas.jpeg" width="100%" alt="Retail Backend" />
+        </a>
+        <br><br>
+        <a href="https://github.com/jherraizsoler/RetailApp.Backend" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
       </td>
       <td width="25%" align="center">
-        <p align="center">
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer" title="Go to Source">
-            <img align="center" width="100%"
-              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Clientes.jpeg"
-              alt="IMAGEN" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/jherraizsoler/" target="blank"><img align="center"
-              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-              alt="@jherraizsoler" /></a>
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"><img
-              align="center"
-              src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white"
-              alt="WEB" /></a>
-        </p>
+        <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank">
+          <img src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Alumnos.jpeg" width="100%" alt="Alumnos JPA" />
+        </a>
+        <br><br>
+        <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
       </td>
       <td width="25%" align="center">
-        <p align="center">
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer" title="Go to Source">
-            <img align="center" width="100%"
-              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_CofradeDome.png"
-              alt="IMAGEN" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/jherraizsoler/" target="_blank" rel="noopener noreferrer"
-            title="Go to Source"><img align="center"
-              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-              alt="@jherraizsoler" /></a>
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer" title="Go to Source"><img align="center"
-              src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white"
-              alt="WEB" /></a>
-        </p>
+        <img src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_CofradeDome.png" width="100%" alt="CofradeDome" />
+        <br><br>
+        <a href="https://github.com/jherraizsoler" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
       </td>
       <td width="25%" align="center">
-        <p align="center">
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer" title="Go to Source">
-            <img align="center" width="100%"
-              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Gymflow.jpeg"
-              alt="IMAGEN" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/jherraizsoler/" target="_blank" rel="noopener noreferrer"
-            title="Go to Source"><img align="center"
-              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-              alt="@jherraizsoler" /></a>
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer" title="Go to Source"><img align="center"
-              src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white"
-              alt="WEB" /></a>
-        </p>
-      </td>
-    </tr>
-    <!--- Fila 3 -->
-    <tr border="none">
-      <td width="25%" align="center">
-        <p align="center">
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer" title="Go to Source">
-            <img align="center" width="100%"
-              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Personas.jpeg"
-              alt="IMAGEN" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/jherraizsoler/" target="_blank" rel="noopener noreferrer"
-            title="Go to Source"><img align="center"
-              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-              alt="@jherraizsoler" /></a>
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer" title="Go to Source"><img align="center"
-              src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white"
-              alt="WEB" /></a>
-        </p>
-      </td> 
-      <td width="25%" align="center">
-        <p align="center">
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer" title="Go to Source">
-            <img align="center" width="100%"
-              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Presupuestos.jpeg"
-              alt="IMAGEN" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/jherraizsoler/" target="_blank" rel="noopener noreferrer"
-            title="Go to Source"><img align="center"
-              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-              alt="@jherraizsoler" /></a>
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer" title="Go to Source"><img align="center"
-              src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white"
-              alt="WEB" /></a>
-        </p>
-      </td>
-      <td width="25%" align="center">
-        <p align="center">
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer" title="Go to Source">
-            <img align="center" width="100%"
-              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Productos_Backend.jpeg"
-              alt="IMAGEN" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/jherraizsoler/" target="_blank" rel="noopener noreferrer"
-            title="Go to Source"><img align="center"
-              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-              alt="@jherraizsoler" /></a>
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer" title="Go to Source"><img align="center"
-              src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white"
-              alt="WEB" /></a>
-        </p>
-      </td>
-       <td width="25%" align="center">
-        <p align="center">
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer" title="Go to Source">
-            <img align="center" width="100%"
-              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Productos_Frontend.jpeg"
-              alt="IMAGEN" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/jherraizsoler/" target="_blank" rel="noopener noreferrer"
-            title="Go to Source"><img align="center"
-              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-              alt="@jherraizsoler" /></a>
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer" title="Go to Source"><img align="center"
-              src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white"
-              alt="WEB" /></a>
-        </p>
-      </td>
-    </tr>
-    <!--- Fila 4 -->
-    <tr border="none">
-       <td width="25%" align="center">
-        <p align="center">
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer" title="Go to Source">
-            <img align="center" width="100%"
-              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_WPF_EditorTexto.jpg"
-              alt="IMAGEN" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/jherraizsoler/" target="_blank" rel="noopener noreferrer"
-            title="Go to Source"><img align="center"
-              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-              alt="@jherraizsoler" /></a>
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer" title="Go to Source"><img align="center"
-              src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white"
-              alt="WEB" /></a>
-        </p>
-      </td> 
-      <td width="25%" align="center">
-        <p align="center">
-          <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank"
-            rel="noopener noreferrer" title="Go to Source">
-            <img align="center" width="100%"
-              src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Alumnos.jpeg"
-              alt="IMAGEN" />
-          </a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/jherraizsoler/AlumnosWebHibernateJPA_fullstack" target="_blank"
-            rel="noopener noreferrer" height="30">
-            <img align="center"
-              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-              height="30" alt="@jherraizsoler" />
-          </a>
-          <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
-            rel="noopener noreferrer"><img align="center"
-              src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white"
-              alt="WEB" /></a>
-        </p>
+        <img src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Gymflow.jpeg" width="100%" alt="Gymflow" />
+        <br><br>
+        <a href="https://github.com/jherraizsoler" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
       </td>
     </tr>
   </table>
 </div>
 <br>
-<br><br>
 
 <h2 align="center">Actividad en GitHub :octocat:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/jherraizsoler?label=Seguidores&style=for-the-badge&color=21262d&logo=github" />
   <img src="https://img.shields.io/github/stars/jherraizsoler?label=Estrellas%20Totales&style=for-the-badge&color=21262d&logo=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jherraizsoler&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Lenguajes más usados por jherraizsoler" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jherraizsoler&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Lenguajes" />
 </p>
-
 
 <h3 align="center">Gráfico de Contribuciones</h3>
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=jherraizsoler&theme=dark&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=jherraizsoler&theme=dark&hide_border=false)" alt="GitHub Streak" />
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jherraizsoler&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jherraizsoler&theme=github_dark">
 </p>
+
 <p align="center">
   <sub><i>Última actualización: 02-06-2026</i></sub>
 </p>
