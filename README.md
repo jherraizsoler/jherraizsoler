@@ -527,11 +527,12 @@
 
 <h3 align="center">Gráfico de Contribuciones</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jherraizsoler&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=jherraizsoler&theme=dark&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=jherraizsoler&theme=dark&hide_border=false)" alt="GitHub Streak" />
+  
 </p>
+
 <p align="center">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jherraizsoler&theme=github_dark">
-   <img src="https://github-readme-stats.vercel.app/api?username=jherraizsoler&show_icons=true&theme=github_dark">
 </p>
 <p align="center">
   <sub><i>Última actualización: 02-06-2026</i></sub>
