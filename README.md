@@ -247,11 +247,11 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 <p align="center">
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jherraizsoler&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jherraizsoler&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jherraizsoler&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jherraizsoler&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jherraizsoler&theme=github_dark&utcOffset=1)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jherraizsoler&theme=github_dark&utcOffset=1)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jherraizsoler&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jherraizsoler&theme=github_dark)
 
