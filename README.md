@@ -212,7 +212,6 @@
 
 <div id="proyectos" align="center">
   <h2>Proyectos más relevantes:👨🏻‍💻</h2>
-  https://github.com/jherraizsoler/Nexus-Strategy-Engine
   <table>
     <!-- Fila 1 -->
     <tr border="none">
