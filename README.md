@@ -196,15 +196,19 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
         <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
       </td>
       <td width="25%" align="center">
-        <img src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_CofradeDome.png" width="100%" alt="CofradeDome" />
+        <a href="https://github.com/jherraizsoler/AppCofradeDome" target="_blank">
+          <img src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_CofradeDome.png" width="100%" alt="CofradeDome" />
+        </a>
         <br><br>
-        <a href="https://github.com/jherraizsoler" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
+        <a href="https://github.com/jherraizsoler/AppCofradeDome" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
         <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
       </td>
       <td width="25%" align="center">
-        <img src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Gymflow.jpeg" width="100%" alt="Gymflow" />
+        <a href="https://github.com/jherraizsoler/ShopFlow_ControlTiendas" target="_blank">
+          <img src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/main/assets/imagenPrincipal_Shopflow.jpeg" width="100%" alt="ShopFlow" />
+        </a>
         <br><br>
-        <a href="https://github.com/jherraizsoler" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
+        <a href="https://github.com/jherraizsoler/ShopFlow_ControlTiendas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
         <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="WEB" /></a>
       </td>
     </tr>
