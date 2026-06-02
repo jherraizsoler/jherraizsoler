@@ -28,7 +28,7 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
   🎓 Técnico en Sistemas Microinformáticos y Redes (SMR) <br><br>
   
   💼 <b>Experiencia Profesional:</b><br>
-  🚀 <b>Developer Full Stack IA en Deveco</b> (Febrero 2026 - Actualidad): Diseñando e implementando soluciones empresariales que integran IA Generativa, agentes autónomos y arquitecturas de microservicios.<br>
+  🚀 <b>Developer FullStack IA | Consultor Tecnológico | Arquitecto de Soluciones IA en Deveco.IT</b> (Febrero 2026 - Actualidad): Diseñando e implementando soluciones empresariales que integran IA Generativa, agentes autónomos y arquitecturas de microservicios.<br>
   💻 3 meses de experiencia en desarrollo de software en <b>Hiberus</b> (Prácticas).<br>
   🛠️ 3 meses de experiencia en soporte e infraestructura IT en <b>K-tuin</b> (Prácticas).<br><br>
 
