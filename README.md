@@ -237,10 +237,6 @@ ___________________________________________________________________
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jherraizsoler&theme=github-compact" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jherraizsoler&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
-
-<p align="center">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jherraizsoler&theme=github_dark">
 </p>
 
@@ -248,6 +244,8 @@ ___________________________________________________________________
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jherraizsoler&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jherraizsoler&theme=github_dark" />
 </p>
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jherraizsoler&theme=github_dark)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jherraizsoler&theme=github_dark" />
