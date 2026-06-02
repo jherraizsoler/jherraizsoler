@@ -150,6 +150,10 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
         </a>
         <br><br>
         <a href="https://github.com/jherraizsoler/Nexus-Strategy-Engine" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
+        <a href="https://jherraizsoler.github.io/portfolio/indexSpanish.html#proyectos" target="_blank"
+            rel="noopener noreferrer"><img align="center"
+              src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=codepen&logoColor=white"
+              alt="WEB" /></a>
       </td>
       <td width="25%" align="center">
         <a href="https://github.com/jherraizsoler/OmniCare-AI" target="_blank">
