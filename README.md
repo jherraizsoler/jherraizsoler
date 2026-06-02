@@ -233,23 +233,6 @@ ___________________________________________________________________
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jherraizsoler&theme=github-compact" />
 </p>
-<p align="center">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jherraizsoler&theme=github_dark">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jherraizsoler&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jherraizsoler&theme=github_dark" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jherraizsoler&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jherraizsoler&theme=github_dark&utcOffset=1" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jherraizsoler/jherraizsoler/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jherraizsoler&label=Visitas%20Perfil&color=0e75b6&style=for-the-badge" />
