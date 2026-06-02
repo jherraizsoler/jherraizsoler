@@ -226,7 +226,17 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 
 <h3 align="center">Gráfico de Contribuciones</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jherraizsoler&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jherraizsoler&show_icons=true&theme=github_dark&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jherraizsoler&layout=compact&theme=github_dark" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jherraizsoler&theme=github-dark-blue" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jherraizsoler&theme=github-compact" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jherraizsoler&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
 
 <p align="center">
