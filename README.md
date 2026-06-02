@@ -225,7 +225,7 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 
 <h3 align="center">Gráfico de Contribuciones</h3>
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com?user=jherraizsoler&theme=github-dark-blue](https://github-readme-streak-stats.herokuapp.com/?user=jherraizsoler&theme=github-dark-blue)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jherraizsoler&theme=github-dark-blue" />
 </p>
 
 
