@@ -227,6 +227,12 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jherraizsoler&theme=github-dark-blue" />
 </p>
+
+
+
+
+
+___________________________________________________________________
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jherraizsoler&theme=github-compact" />
 </p>
