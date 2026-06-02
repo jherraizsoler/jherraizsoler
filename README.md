@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy Jorge / Desarrollador de Software ✨ </h1>
+<h1 align="center">Hola 👋 soy Jorge / Desarrollador FullStack IA ✨ </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorge-herraiz-soler-25679725b/" target="_blank" rel="noopener noreferrer">
