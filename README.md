@@ -257,5 +257,9 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jherraizsoler&label=Visitas%20Perfil&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
   <sub><i>Última actualización: 02-06-2026</i></sub>
 </p>
