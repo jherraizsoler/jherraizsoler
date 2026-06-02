@@ -50,7 +50,7 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
   Diseño, desarrollo y despliegue de soluciones empresariales basadas en Inteligencia Artificial Generativa, sistemas multiagente, automatización de procesos y arquitecturas cloud escalables.
   <ul>
     <li><b>Impacto Real:</b> Participación activa en el ciclo completo de <b>11 proyectos empresariales</b>.</li>
-    <li><b>Sectores y Soluciones:</b> Médico (Plataformas 3D Slicer/Trame para cirugías y analítica con IA), Asegurador, flujos OCR e industria química. Especialización en sistemas conversacionales avanzados (Call Centers de IA con <i>Laia, Laia Echeman</i> y asistentes de voz).</li>
+    <li><b>Sectores y Soluciones:</b> Médico (Plataformas 3D Slicer/Trame para cirugías y analítica con IA), Asegurador, flujos OCR e industria química. Especialización en sistemas conversacionales avanzados (Call Centers de IA con <i>Laia, Laia Echeman</i> y asistentes de voz con VAPI).</li>
   </ul>
 
   💻 <b>Full Stack Developer Intern | Hiberus</b> <i>(Marzo 2025 - Junio 2025)</i><br>
