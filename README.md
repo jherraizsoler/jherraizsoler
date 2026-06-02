@@ -257,7 +257,6 @@ ___________________________________________________________________
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jherraizsoler&theme=github_dark" />
 </p>
 
-https://github-readme-stats-sigma-five.vercel.app/api?username=jherraizsoler
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jherraizsoler&theme=github_dark" />
