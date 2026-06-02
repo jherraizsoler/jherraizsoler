@@ -19,6 +19,13 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
   </a>
 </p>
 <br>
+<p align="center">
+🚀 11 proyectos empresariales IA desplegados |
+🤖 10 proyectos IA Open Source |
+💻 30+ proyectos Full Stack |
+☁️ Azure · Docker · LangGraph · n8n
+</p>
+
 
 <h2 align="center">Sobre mí 😃</h2>
 
@@ -40,6 +47,7 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 <p align="left">
   🚀 <b>Developer Full Stack IA | Deveco</b> <i>(Febrero 2026 - Actualidad)</i><br>
   Rol híbrido actuando como Analista, Consultor, Arquitecto de Soluciones y Especialista en IA/DevOps. Diseño, desarrollo y despliegue a producción de arquitecturas modernas de microservicios y agentes inteligentes.
+  Diseño, desarrollo y despliegue de soluciones empresariales basadas en Inteligencia Artificial Generativa, sistemas multiagente, automatización de procesos y arquitecturas cloud escalables.
   <ul>
     <li><b>Impacto Real:</b> Participación activa en el ciclo completo de <b>11 proyectos empresariales</b>.</li>
     <li><b>Sectores y Soluciones:</b> Médico (Plataformas 3D Slicer/Trame para cirugías y analítica con IA), Asegurador, flujos OCR e industria química. Especialización en sistemas conversacionales avanzados (Call Centers de IA con <i>Laia, Laia Echeman</i> y asistentes de voz).</li>
@@ -104,7 +112,7 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 </p>
 <br>
 
-<h2 align="center">Tecnologías conocidas 👨🏻‍💻</h2>
+<h2 align="center">Stack Tecnológico 👨🏻‍💻</h2>
 
 <h3 align="center"><b>Lenguajes de Programación</b></h3>
 <p align="center">
@@ -239,12 +247,11 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 <p align="center">
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jherraizsoler&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jherraizsoler&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jherraizsoler&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jherraizsoler&theme=dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jherraizsoler&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jherraizsoler&theme=github_dark)
 
-<p align="center">
-  <sub><i>Última actualización: 02-06-2026</i></sub>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jherraizsoler&theme=github_dark&utcOffset=1)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jherraizsoler&theme=github_dark)
+
