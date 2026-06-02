@@ -27,17 +27,53 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
   🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) <br>
   🎓 Técnico en Sistemas Microinformáticos y Redes (SMR) <br><br>
   
-  💼 <b>Experiencia Profesional:</b><br>
-  🚀 <b>Developer FullStack IA | Consultor Tecnológico | Arquitecto de Soluciones IA en Deveco.IT</b> (Febrero 2026 - Actualidad): Diseñando e implementando soluciones empresariales que integran IA Generativa, agentes autónomos y arquitecturas de microservicios.<br>
-  💻 3 meses de experiencia en desarrollo de software en <b>Hiberus</b> (Prácticas).<br>
-  🛠️ 3 meses de experiencia en soporte e infraestructura IT en <b>K-tuin</b> (Prácticas).<br><br>
+  📂 <b>Portafolio de Código Abierto (GitHub):</b><br>
+  🤖 <b>10 proyectos</b> avanzados desarrollados y documentados en IA y Big Data.<br>
+  💻 Más de <b>30 proyectos</b> creados y documentados en tecnologías FullStack.<br><br>
 
-  📂 <b>Impacto en Proyectos:</b><br>
-  🤖 He desarrollado y desplegado más de <b>11 proyectos empresariales de IA y Automatización</b> en sectores clave (Médico, Asegurador, Industria, Call Centers de IA).<br>
-  💻 Más de <b>30 proyectos FullStack</b> creados y documentados.<br><br>
-  
   📫 Contacto: <b>jorgeherraizsoler@gmail.com</b>
 </p>
+<br>
+
+<h2 align="center">Trayectoria & Experiencia Profesional 💼</h2>
+
+<p align="left">
+  🚀 <b>Developer Full Stack IA | Deveco</b> <i>(Febrero 2026 - Actualidad)</i><br>
+  Rol híbrido actuando como Analista, Consultor, Arquitecto de Soluciones y Especialista en IA/DevOps. Diseño, desarrollo y despliegue a producción de arquitecturas modernas de microservicios y agentes inteligentes.
+  <ul>
+    <li><b>Impacto Real:</b> Participación activa en el ciclo completo de <b>11 proyectos empresariales</b>.</li>
+    <li><b>Sectores y Soluciones:</b> Médico (Plataformas 3D Slicer/Trame para cirugías y analítica con IA), Asegurador, flujos OCR e industria química. Especialización en sistemas conversacionales avanzados (Call Centers de IA con <i>Laia, Laia Echeman</i> y asistentes de voz).</li>
+  </ul>
+
+  💻 <b>Full Stack Developer Intern | Hiberus</b> <i>(Marzo 2025 - Junio 2025)</i><br>
+  Desarrollo y mantenimiento evolutivo en el proyecto <b>GISIR</b> para <b>SARGA</b> (Sociedad Aragonesa de Gestión Agroambiental).
+  <ul>
+    <li><b>Backend & Data:</b> Lógica de negocio con Java (Spring/Hibernate) y optimización de consultas complejas en SQL Server mediante índices y JOINs. Automatización de procesos con .NET (C#).</li>
+    <li><b>Frontend & Reporting:</b> Tablas dinámicas y manejo de JSON en cliente con JS, jQuery y jqGrid. Generación de informes complejos con JasperReports.</li>
+  </ul>
+
+  🛠️ <b>IT Support Intern | K-tuin</b> <i>(Prácticas)</i><br>
+  Soporte técnico, administración de sistemas, infraestructura IT y resolución de incidencias en entornos empresariales.
+</p>
+<br>
+
+<h2 align="center">Referencias y Feedback 💬</h2>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <blockquote>
+        "Durante ese tiempo, Jorge demostró ser un desarrollador responsable, con buen dominio técnico y una actitud muy profesional. Siempre cumplió con sus tareas de forma eficiente... Destaco su fiabilidad y su forma de trabajar en equipo. Jorge es un buen profesional, comprometido y resolutivo."<br><br>
+        <strong>— Jesús Tejedor</strong><br><i>Responsable de Desarrollo (Proyecto GISIR – Hiberus)</i>
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <blockquote>
+        "Jorge. Un trabajador muy aplicado y preparado para cualquier terreno."<br><br><br><br>
+        <strong>— Pablo Rodríguez Dilla</strong><br><i>Responsable Técnico (K-tuin)</i>
+      </blockquote>
+    </td>
+  </tr>
+</table>
 <br>
 
 <h2 align="center">Especialización y Enfoque Profesional 🎯</h2>
@@ -45,26 +81,26 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 Sectores Clave (Deveco)</h3>
+      <h3 align="center">🚀 Core Técnico</h3>
       <ul>
-        <li><b>IA & Data Agents:</b> Orquestación de flujos y agentes inteligentes avanzados con <b>LangChain</b>, <b>LangGraph</b> y <b>n8n</b>.</li>
-        <li><b>Sistemas Enterprise & Cloud:</b> Microservicios y backend robusto usando <b>Python</b>, <b>Java/.NET</b> y arquitecturas modernas en la nube (<b>Azure</b>, <b>Supabase</b>).</li>
-        <li><b>Automatización & DevOps:</b> Flujos de trabajo industriales, OCR, infraestructura contenerizada con <b>Docker</b> y despliegues automáticos.</li>
+        <li><b>IA & Agentic Workflows:</b> Creación y orquestación de agentes autónomos y RAG con <b>LangChain</b>, <b>LangGraph</b> y <b>n8n</b>.</li>
+        <li><b>Enterprise Backend:</b> Microservicios y lógica robusta multiplataforma usando <b>Python</b>, <b>Java (Spring)</b> y <b>.NET (C#)</b>.</li>
+        <li><b>Ecosistema Cloud & Data:</b> Despliegues ágiles en producción mediante contenedores (<b>Docker/Portainer</b>), arquitecturas de voz (<b>Vapi/Twilio</b>) y bases de datos tradicionales/BaaS (<b>SQL Server</b>, <b>Supabase</b>).</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🤖 Mi Valor Diferencial</h3>
       <ul>
-        <li><b>Perfil Híbrido Real:</b> Conecto el desarrollo tradicional (Frontend/Backend) con automatizaciones de negocio e <b>IA Generativa</b>.</li>
-        <li><b>Polivalencia de Roles:</b> Experiencia actuando como Consultor, Arquitecto de Soluciones, Ingeniero de Prompts y DevOps.</li>
-        <li><b>Innovación Multidisciplinar:</b> Desde visión computacional y modelos de voz hasta herramientas de nicho como <b>3D Slicer / Trame</b> para medicina.</li>
+        <li><b>Perfil Híbrido Real:</b> Capacidad demostrada para saltar del desarrollo de software tradicional a la integración de IA Generativa aplicada a negocio.</li>
+        <li><b>Visión de Negocio:</b> Experiencia real tratando con clientes de sectores críticos (Banca, Retail, Salud, Gestión Agroambiental).</li>
+        <li><b>Adaptabilidad Tecnológica:</b> Capacidad para asimilar entornos y stacks complejos rápidamente, validado por líderes de equipo del sector IT.</li>
       </ul>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <i>"Transformando procesos tradicionales en ecosistemas inteligentes y automatizados listos para producción."</i>
+  <i>"Transformando necesidades de negocio en código eficiente, automatizaciones inteligentes e infraestructuras listas para producción."</i>
 </p>
 <br>
 
