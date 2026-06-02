@@ -23,12 +23,12 @@
   🎓 Técnico en Sistemas microinformatico y redes.</br>
   
   💻 3 meses de experiencia en el proceso de desarrollo de software en Hiberus en prácticas. </br>
-  💻 3 meses en experiencia profesinal en el mundo IT en K-tuin en prácticas </br>
+  💻 3 meses en experiencia profesional en el mundo IT en K-tuin en prácticas </br>
 
-  📂 Desarrollados y documentados más de 30 proyectos en tecnologías punteras y FullStack</br>
-  📂 Desarrollados y documentados 10 proyectos en tecnologías punteras en Inteligencia Artificial y Big Data</br>
+  📂 He desarrollado y documentado 10 proyectos en tecnologías punteras en Inteligencia Artificial y Big Data</br>
+  📂 He desarrollado y documentado más de 30 proyectos en tecnologías punteras y FullStack</br>
   
-  📝 roles en el ámbito: 💻 A lo largo de mi carrera he asumido roles como tecnico de soporte IT, desarrollador / programador, Developer FullStack AI ... ¡y en un
+  📝 roles en el ámbito: 💻 A lo largo de mi carrera he asumido roles como técnico de soporte IT, desarrollador / programador, Developer FullStack AI ... ¡y en un
   futuro quién sabe! ☺️</br>
 
 
