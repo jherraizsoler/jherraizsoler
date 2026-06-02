@@ -237,9 +237,11 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
   <img src="https://komarev.com/ghpvc/?username=jherraizsoler&label=Visitas%20Perfil&color=0e75b6&style=for-the-badge" />
 </p>
 <p align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jherraizsoler&theme=default)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jherraizsoler&theme=default)
 </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jherraizsoler&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jherraizsoler&theme=default)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jherraizsoler&theme=default&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jherraizsoler&theme=default)
 
