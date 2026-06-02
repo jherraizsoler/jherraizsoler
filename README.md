@@ -245,13 +245,12 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
   <img src="https://komarev.com/ghpvc/?username=jherraizsoler&label=Visitas%20Perfil&color=0e75b6&style=for-the-badge" />
 </p>
 <p align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jherraizsoler&theme=dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jherraizsoler&theme=dark)
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jherraizsoler&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jherraizsoler&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jherraizsoler&theme=github_dark&utcOffset=1)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jherraizsoler&theme=github_dark)
+<p align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jherraizsoler&theme=dark&utcOffset=8)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jherraizsoler&theme=dark)
+</p>
 
