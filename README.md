@@ -19,8 +19,8 @@
 
 <p align="left">
   🎓 Actualmente Máster FP Especialidad en Inteligencia Artificial y Big Data. </br>
-  🎓 Tecnico superior en Desarrollo de aplicaciones Multiplataforma </br>
-  🎓 Tecnico en Sistemas microinformatico y redes.</br>
+  🎓 Técnico superior en Desarrollo de aplicaciones Multiplataforma </br>
+  🎓 Técnico en Sistemas microinformatico y redes.</br>
   
   💻 3 meses de experiencia en el proceso de desarrollo de software en Hiberus en prácticas. </br>
   💻 3 meses en experiencia profesinal en el mundo IT en K-tuin en prácticas </br>
@@ -529,7 +529,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jherraizsoler&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jherraizsoler&theme=github_dark">
+   <img src="https://github-readme-stats.vercel.app/api?username=jherraizsoler&show_icons=true&theme=github_dark">
+</p>
 <p align="center">
   <sub><i>Última actualización: 02-06-2026</i></sub>
 </p>
