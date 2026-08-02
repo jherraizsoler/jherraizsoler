@@ -36,7 +36,7 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
   🎓 Técnico en Sistemas Microinformáticos y Redes (SMR) <br><br>
   
   📂 <b>Portafolio de Código Abierto (GitHub):</b><br>
-  🤖 <b>10 proyectos</b> avanzados desarrollados y documentados en IA y Big Data.<br>
+  🤖 <b>14 proyectos</b> avanzados desarrollados y documentados en IA y Big Data.<br>
   💻 Más de <b>30 proyectos</b> creados y documentados en tecnologías FullStack.<br><br>
 
   📫 Contacto: <b>jorgeherraizsoler@gmail.com</b>
