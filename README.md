@@ -20,9 +20,9 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 </p>
 <br>
 <p align="center">
-🚀 11 proyectos empresariales IA desplegados |
-🤖 10 proyectos IA Open Source |
-💻 30+ proyectos Full Stack |
+🚀 15 proyectos empresariales IA desplegados |
+🤖 14 proyectos IA Open Source |
+💻 40+ proyectos Full Stack |
 ☁️ Azure · Docker · LangGraph · n8n
 </p>
 
