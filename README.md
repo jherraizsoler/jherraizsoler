@@ -30,6 +30,7 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 <h2 align="center">Sobre mí 😃</h2>
 
 <p align="left">
+  🎓 <b>Programa Profesional Ciberseguridad</b> <br>
   🎓 <b>Máster FP Especialidad en Inteligencia Artificial y Big Data</b> <br>
   🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) <br>
   🎓 Técnico en Sistemas Microinformáticos y Redes (SMR) <br><br>
