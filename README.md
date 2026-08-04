@@ -46,10 +46,10 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 <h2 align="center">Trayectoria & Experiencia Profesional 💼</h2>
 
 <p align="left">
- 🚀 <b>Software Engineer | Full-Stack Developer & AI Specialist | Deveco </b> <i>(Marzo 2026 - Actualidad)</i>
-  Rol híbrido actuando como <b>Analista, Consultor, Arquitecto de Soluciones, Especialista en IA/Big Data, DevOps y Prompt Engineer</b>. Ciclo completo (análisis, desarrollo, CI/CD y mantenimiento) de aplicaciones web,      ERPs, arquitecturas de microservicios, sistemas multiagente y   diseño, desarrollo y despliegue a producción de arquitecturas modernas de microservicios y agentes inteligentes. Diseño, desarrollo y despliegue de       soluciones empresariales soluciones de IA Generativa basadas en LLMs y  automatización de procesos y arquitecturas cloud escalables..
+ 🚀 <b>Software Engineer | Full-Stack Developer & AI Specialist | Deveco </b> <i>(Marzo 2026 - Actualidad)</i><br>
+  Rol híbrido desempeñando funciones de <b>Analista, Consultor, Arquitecto de Soluciones, Especialista en IA/Big Data, DevOps y Prompt Engineer</b>. Gestión del ciclo de vida completo (análisis, diseño, desarrollo, despliegue en producción, CI/CD y mantenimiento) de aplicaciones web, sistemas ERP y arquitecturas cloud escalables.
 
-  Especializado en automatización avanzada (<i>LangChain, LangGraph, RAG, n8n</i>), bots de voz/WhatsApp (<i>Vapi, Twilio</i>), flujos OCR y analítica Big Data.
+ Especializado en el diseño e implementación de soluciones empresariales avanzadas basadas en IA Generativa, arquitectura de microservicios y sistemas multiagente. Amplia experiencia en automatización de procesos mediante <i>LangChain, LangGraph, RAG y n8n</i>, integración de bots conversacionales de voz y WhatsApp (<i>Vapi, Twilio</i>), flujos OCR inteligentes y análisis de datos a gran escala (Big Data)
   
 <ul>
   <li><b>Impacto Real:</b> Participación activa en <b>14 proyectos empresariales</b> abarcando sectores como sanidad, aseguradoras, jurídico, ganadería e industria.</li>
