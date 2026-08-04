@@ -46,7 +46,7 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 <h2 align="center">Trayectoria & Experiencia Profesional 💼</h2>
 
 <p align="left">
- 🚀 <b>Software Engineer | Full-Stack Developer & AI Specialist | Deveco </b> <i>(Marzo 2026 - Actualidad)</i><br>
+ 🚀 <b>Software Engineer | Full-Stack Developer & AI Specialist | Deveco </b> <i>(Marzo 2026 - Actualidad)</i><br><br>
   Rol híbrido desempeñando funciones de <b>Analista, Consultor, Arquitecto de Soluciones, Especialista en IA/Big Data, DevOps y Prompt Engineer</b>. Gestión del ciclo de vida completo (análisis, diseño, desarrollo, despliegue en producción, CI/CD y mantenimiento) de aplicaciones web, sistemas ERP y arquitecturas cloud escalables.
 
  Especializado en el diseño e implementación de soluciones empresariales avanzadas basadas en IA Generativa, arquitectura de microservicios y sistemas multiagente. Amplia experiencia en automatización de procesos mediante <i>LangChain, LangGraph, RAG y n8n</i>, integración de bots conversacionales de voz y WhatsApp (<i>Vapi, Twilio</i>), flujos OCR inteligentes y análisis de datos a gran escala (Big Data)
@@ -67,14 +67,14 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
   </li>
 </ul>
 
-  💻 <b>Full Stack Developer Intern | Hiberus</b> <i>(Marzo 2025 - Junio 2025)</i><br>
+  💻 <b>Full Stack Developer Intern | Hiberus</b> <i>(Marzo 2025 - Junio 2025)</i><br><br>
   Desarrollo y mantenimiento evolutivo en el proyecto <b>GISIR</b> para <b>SARGA</b> (Sociedad Aragonesa de Gestión Agroambiental).
   <ul>
     <li><b>Backend & Data:</b> Lógica de negocio con Java (Spring/Hibernate) y optimización de consultas complejas en SQL Server mediante índices y JOINs. Automatización de procesos con .NET (C#).</li>
     <li><b>Frontend & Reporting:</b> Tablas dinámicas y manejo de JSON en cliente con JS, jQuery y jqGrid. Generación de informes complejos con JasperReports.</li>
   </ul>
 
-  🛠️ <b>IT Support Intern | K-tuin</b> <i>(Prácticas)</i><br>
+  🛠️ <b>IT Support Intern | K-tuin</b> <i>(Prácticas)</i><br><br>
   Soporte técnico, administración de sistemas, infraestructura IT y resolución de incidencias en entornos empresariales.
 </p>
 <br>
