@@ -31,9 +31,9 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 
 <p align="left">
   🎓 <b>Programa Profesional Ciberseguridad</b> <br>
-  🎓 <b>Máster FP Especialidad en Inteligencia Artificial y Big Data</b> <br>
-  🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) <br>
-  🎓 Técnico en Sistemas Microinformáticos y Redes (SMR) <br><br>
+  🎓 <b>Máster FP -- Técnico Superior Especialista en Inteligencia Artificial y Big Data</b> <br>
+  🎓 <b></n>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)</b> <br>
+  🎓 <b>Técnico en Sistemas Microinformáticos y Redes (SMR)</b> <br><br>
   
   📂 <b>Portafolio de Código Abierto (GitHub):</b><br>
   🤖 <b>14 proyectos</b> avanzados desarrollados y documentados en IA y Big Data.<br>
