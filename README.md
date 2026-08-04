@@ -49,7 +49,7 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
  🚀 <b>Software Engineer | Full-Stack Developer & AI Specialist | Deveco </b> <i>(Marzo 2026 - Actualidad)</i><br><br>
   Rol híbrido desempeñando funciones de <b>Analista, Consultor, Arquitecto de Soluciones, Especialista en IA/Big Data, DevOps y Prompt Engineer</b>. Gestión del ciclo de vida completo (análisis, diseño, desarrollo, despliegue en producción, CI/CD y mantenimiento) de aplicaciones web, sistemas ERP y arquitecturas cloud escalables.
 
- Especializado en el diseño e implementación de soluciones empresariales avanzadas basadas en IA Generativa, arquitectura de microservicios y sistemas multiagente. Amplia experiencia en automatización de procesos mediante <i>LangChain, LangGraph, RAG y n8n</i>, integración de bots conversacionales de voz y WhatsApp (<i>Vapi, Twilio</i>), flujos OCR inteligentes y análisis de datos a gran escala (Big Data)
+ Especializado en el diseño e implementación de soluciones empresariales avanzadas basadas en IA Generativa, arquitectura de microservicios y sistemas multiagente. Amplia experiencia en automatización de procesos mediante <i>LangChain, LangGraph, RAG y n8n</i>, integración de bots conversacionales de voz (<i>Vapi, Twilio</i>) y Api para Chatbot de WhatsApp , flujos OCR inteligentes y análisis de datos a gran escala (Big Data)
   
 <ul>
   <li><b>Impacto Real:</b> Participación activa en <b>14 proyectos empresariales</b> abarcando sectores como sanidad, aseguradoras, jurídico, ganadería e industria.</li>
