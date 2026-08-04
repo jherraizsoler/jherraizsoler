@@ -121,15 +121,15 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
       <ul>
         <li><b>IA & Agentic Workflows:</b> Creación y orquestación de agentes autónomos y RAG con <b>LangChain</b>, <b>LangGraph</b> y <b>n8n</b>.</li>
         <li><b>Enterprise Backend:</b> Microservicios y lógica robusta multiplataforma usando <b>Python</b>, <b>Java (Spring)</b> y <b>.NET (C#)</b>.</li>
-        <li><b>Ecosistema Cloud & Data:</b> Despliegues ágiles en producción mediante contenedores (<b>Docker/Portainer</b>), arquitecturas de voz (<b>Vapi/Twilio</b>) y bases de datos tradicionales/BaaS (<b>SQL Server</b>, <b>Supabase</b>).</li>
+        <li><b>Ecosistema Cloud & Data:</b> Despliegues ágiles en producción con <b>Docker</b>/<b>Portainer</b>, arquitecturas de voz (<b>Vapi</b>/<b>Twilio</b>) y datos en <b>SQL Server</b> y <b>Supabase</b>.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🤖 Mi Valor Diferencial</h3>
       <ul>
-        <li><b>Perfil Híbrido Real:</b> Capacidad demostrada para saltar del desarrollo de software tradicional a la integración de IA Generativa aplicada a negocio.</li>
-        <li><b>Visión de Negocio:</b> Experiencia real tratando con clientes de sectores críticos (Banca, Retail, Salud, Gestión Agroambiental).</li>
-        <li><b>Adaptabilidad Tecnológica:</b> Capacidad para asimilar entornos y stacks complejos rápidamente, validado por líderes de equipo del sector IT.</li>
+        <li><b>Perfil Híbrido Real:</b> Capacidad demostrada para pasar del desarrollo de software tradicional a la integración de IA Generativa aplicada a negocio.</li>
+        <li><b>Visión de Negocio:</b> Experiencia real con clientes de sectores críticos como banca, retail, salud y gestión agroambiental.</li>
+        <li><b>Adaptabilidad Tecnológica:</b> Capacidad para asimilar entornos y stacks complejos con rapidez, validada por líderes de equipos IT.</li>
       </ul>
     </td>
   </tr>
@@ -144,7 +144,7 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 
 <h3 align="center"><b>Lenguajes de Programación</b></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,java,cs" title="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,cs,php" title="Languages" />
 </p>
 
 <h3 align="center"><b>Inteligencia Artificial & Automatización de Procesos</b></h3>
@@ -159,7 +159,7 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 
 <h3 align="center"><b>Frameworks, Frontend & Backend</b></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,spring,dotnet,nodejs,express,flutter" title="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,spring,dotnet,nodejs,express,flutter" title="Frameworks" />
 </p>
 
 <h3 align="center"><b>Bases de Datos & Cloud BaaS</b></h3>
@@ -170,10 +170,10 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 
 <h3 align="center"><b>Herramientas, DevOps & Entornos</b></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,azure,aws,git,github,vscode,salesforce" title="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,azure,aws,git,github,vscode" title="DevOps & Tools" />
   <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" title="Portainer" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" title="Salesforce" />
 </p>
-<br>
 
 <div id="proyectos" align="center">
   <h2>Proyectos más relevantes 👨🏻‍💻</h2>
