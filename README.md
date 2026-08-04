@@ -155,6 +155,7 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
   <img src="https://img.shields.io/badge/Vapi_Voz-4F46E5?style=for-the-badge" title="Vapi Voice AI" />
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" title="Twilio" />
   <img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit" />
+  <img src="https://img.shields.io/badge/Trame-0A84FF?style=for-the-badge&logo=python&logoColor=white" title="Trame" />
 </p>
 
 <h3 align="center"><b>Frameworks, Frontend & Backend</b></h3>
