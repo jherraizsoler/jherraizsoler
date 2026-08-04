@@ -46,13 +46,26 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 <h2 align="center">Trayectoria & Experiencia Profesional 💼</h2>
 
 <p align="left">
-  🚀 <b>Developer Full Stack IA | Deveco</b> <i>(Febrero 2026 - Actualidad)</i><br>
-  Rol híbrido actuando como Analista, Consultor, Arquitecto de Soluciones y Especialista en IA/DevOps. Diseño, desarrollo y despliegue a producción de arquitecturas modernas de microservicios y agentes inteligentes.
-  Diseño, desarrollo y despliegue de soluciones empresariales basadas en Inteligencia Artificial Generativa, sistemas multiagente, automatización de procesos y arquitecturas cloud escalables.
-  <ul>
-    <li><b>Impacto Real:</b> Participación activa en el ciclo completo de <b>14 proyectos empresariales</b>.</li>
-    <li><b>Sectores y Soluciones:</b> Médico (Plataformas 3D Slicer/Trame para cirugías y analítica con IA), Asegurador, flujos OCR e industria química. Especialización en sistemas conversacionales avanzados (Call Centers de IA con <i>Laia, Laia Echeman</i> y asistentes de voz con VAPI).</li>
-  </ul>
+ 🚀 <b>Software Engineer | Full-Stack Developer & AI Specialist | Deveco </b> <i>(Marzo 2026 - Actualidad)</i>
+  Rol híbrido actuando como <b>Analista, Consultor, Arquitecto de Soluciones, Especialista en IA/Big Data, DevOps y Prompt Engineer</b>. Ciclo completo (análisis, desarrollo, CI/CD y mantenimiento) de aplicaciones web,      ERPs, arquitecturas de microservicios, sistemas multiagente y   diseño, desarrollo y despliegue a producción de arquitecturas modernas de microservicios y agentes inteligentes. Diseño, desarrollo y despliegue de       soluciones empresariales soluciones de IA Generativa basadas en LLMs y  automatización de procesos y arquitecturas cloud escalables..
+
+  Especializado en automatización avanzada (<i>LangChain, LangGraph, RAG, n8n</i>), bots de voz/WhatsApp (<i>Vapi, Twilio</i>), flujos OCR y analítica Big Data.
+  
+<ul>
+  <li><b>Impacto Real:</b> Participación activa en <b>14 proyectos empresariales</b> abarcando sectores como sanidad, aseguradoras, jurídico, ganadería e industria.</li>
+  <li>
+    <b>Sectores y Soluciones:</b>
+    <ul>
+      <li><b>Médico:</b> 3D Slicer/Trame para análisis CFD en cirugías.</li>
+      <li><b>Jurídico:</b> Plataforma de herencias procesando +800M de registros.</li>
+      <li><b>ERPs & Automatización:</b> ERPs inteligentes con OCR (<i>ERP Commander</i>).</li>
+      <li><b>Voice & Conversational AI:</b> Call Centers de IA (<i>Laia, Vapi</i>).</li>
+    </ul>
+  </li>
+  <li>
+    <b>Tecnologías:</b> <code>Python</code> • <code>TypeScript</code> • <code>PHP</code> • <code>React</code> • <code>Vue</code> • <code>CodeIgniter 4</code> • <code>OpenAI</code> • <code>Docker</code> • <code>Azure</code> • <code>Supabase</code> • <code>ENFOCA</code> • <code>LAIA</code> • <code>MPM SegElevia</code>
+  </li>
+</ul>
 
   💻 <b>Full Stack Developer Intern | Hiberus</b> <i>(Marzo 2025 - Junio 2025)</i><br>
   Desarrollo y mantenimiento evolutivo en el proyecto <b>GISIR</b> para <b>SARGA</b> (Sociedad Aragonesa de Gestión Agroambiental).
