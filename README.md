@@ -20,9 +20,9 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 </p>
 <br>
 <p align="center">
-🚀 15 proyectos empresariales IA desplegados |
-🤖 14 proyectos IA Open Source |
-💻 40+ proyectos Full Stack |
+🚀 15+ proyectos empresariales reales |
+🤖 50+ proyectos personales (IA + Full Stack) |
+⚡ Optimización de procesos hasta 10x |
 ☁️ AWS · Docker · LangGraph · n8n · React · Angular · PHP · .NET · Python · Spring
 </p>
 
@@ -36,8 +36,8 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
   🎓 <b>[IES Santiago Hernández]  ·  Técnico en Sistemas Microinformáticos y Redes (SMR)</b> <br><br>
   
   📂 <b>Portfolio (GitHub):</b><br>
-  🤖 <b>14 proyectos</b> avanzados desarrollados y documentados en IA y Big Data.<br>
-  💻 Más de <b>40 proyectos</b> creados y documentados en tecnologías FullStack.<br><br>
+  🤖 +💻 Más de <b>50 proyectos personales</b> desarrollados de extremo a extremo.<br>
+  🚀 Participación en <b>15+ proyectos empresariales</b> con objetivos reales de negocio.<br><br>
 
   📫 Contacto: <b>jorgeherraizsoler@gmail.com</b>
 </p>
@@ -46,7 +46,7 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 <h2 align="center">Trayectoria & Experiencia Profesional 💼</h2>
 
 <p align="left">
- 🚀 <b>Software Engineer | Full-Stack Developer & AI Specialist | Deveco </b> <i>(Marzo 2026 - Actualidad)</i><br><br>
+ 🚀 <b>Software Engineer | Full-Stack Developer & AI Specialist | Deveco </b> <i>(Febrero 2026 - Actualidad)</i><br><br>
   Rol híbrido desempeñando funciones de <b>Analista, Consultor, Arquitecto de Soluciones, Especialista en IA/Big Data, DevOps y Prompt Engineer</b>. Gestión del ciclo de vida completo (análisis, diseño, desarrollo, despliegue en producción, CI/CD y mantenimiento) de aplicaciones web, sistemas ERP y arquitecturas cloud escalables.
 
  Especializado en el diseño e implementación de soluciones empresariales avanzadas basadas en IA Generativa, arquitectura de microservicios y sistemas multiagente. Amplia experiencia en automatización de procesos mediante <i>LangChain, LangGraph, RAG y n8n</i>, integración de bots conversacionales de voz (<i>Vapi, Twilio</i>) y Api para Chatbot de WhatsApp , flujos OCR inteligentes y análisis de datos a gran escala (Big Data)
