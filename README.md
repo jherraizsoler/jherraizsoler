@@ -173,6 +173,7 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
   <img src="https://skillicons.dev/icons?i=docker,azure,aws,git,github,vscode" title="DevOps & Tools" />
   <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" title="Portainer" />
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" title="Salesforce" />
+  <img src="https://img.shields.io/badge/Dokploy-0B0F1A?style=for-the-badge&logo=docker&logoColor=white" title="Dokploy" />
 </p>
 
 <div id="proyectos" align="center">
