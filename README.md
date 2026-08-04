@@ -84,14 +84,28 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
   <tr>
     <td width="50%" valign="top">
       <blockquote>
-        "Durante ese tiempo, Jorge demostró ser un desarrollador responsable, con buen dominio técnico y una actitud muy profesional. Siempre cumplió con sus tareas de forma eficiente... Destaco su fiabilidad y su forma de trabajar en equipo. Jorge es un buen profesional, comprometido y resolutivo."<br><br>
-        <strong>— Jesús Tejedor</strong><br><i>Responsable de Desarrollo (Proyecto GISIR – Hiberus)</i>
+        "Tengo la suerte de trabajar con Jorge en Deveco y es de esas personas que marcan la diferencia en un equipo. Combina un dominio técnico impresionante, desde IA generativa y agentes autónomos hasta desarrollo fullstack, con una gran capacidad para convertir ideas en soluciones reales. Lo que más destaco es su actitud: comprometido, curioso y siempre dispuesto a ayudar y a seguir aprendiendo."<br><br>
+        <strong>— Javier Senz Domínguez</strong><br><i>Cofundador y CEO en Deveco</i>
       </blockquote>
     </td>
     <td width="50%" valign="top">
       <blockquote>
-        "Jorge. Un trabajador muy aplicado y preparado para cualquier terreno."<br><br><br><br>
-        <strong>— Pablo Rodríguez Dilla</strong><br><i>Responsable Técnico (K-tuin)</i>
+        "Recomendación profesional publicada en LinkedIn, destacando el desempeño de Jorge dentro del entorno de Deveco.IT y su contribución técnica en proyectos de alto impacto."<br><br>
+        <strong>— Carlos Zapatero Tejedor</strong><br><i>Cofundador Holding DTH · Fundador & COO en Deveco.IT</i>
+      </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <blockquote>
+        "Tuve la oportunidad de trabajar con Jorge en el proyecto GISIR dentro de Hiberus, donde formó parte de mi equipo de desarrollo. Durante ese tiempo, Jorge demostró ser un desarrollador responsable, con un buen dominio técnico y una actitud muy profesional. Siempre cumplió con sus tareas de forma eficiente y con buena disposición, incluso en momentos de carga alta de trabajo o cambios de última hora. Destaco especialmente su fiabilidad y su forma de trabajar en equipo: se adaptó bien a la dinámica del proyecto y colaboró de manera fluida con el resto del equipo técnico y funcional. En resumen, Jorge es un buen profesional, comprometido y resolutivo. Estoy seguro de que encajará bien en cualquier equipo de desarrollo."<br><br>
+        <strong>— Jesús Tejedor</strong><br><i>Product Owner (Proyecto GISIR – Hiberus)</i>
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <blockquote>
+        "Jorge. Un trabajador muy aplicado y preparado para cualquier terreno."<br><br>
+        <strong>— Pablo Rodríguez Dilla</strong><br><i>Responsable de equipo de sistemas y helpdesk (K-tuin)</i>
       </blockquote>
     </td>
   </tr>
