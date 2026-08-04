@@ -152,9 +152,9 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" title="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-2C4C4C?style=for-the-badge&logo=nodes&logoColor=white" title="LangGraph" />
   <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" title="n8n" />
+  <img src="https://img.shields.io/badge/Streamlit-FF0000?style=for-the-badge&logo=python&logoColor=white" title="Streamlit" />
   <img src="https://img.shields.io/badge/Vapi_Voz-4F46E5?style=for-the-badge" title="Vapi Voice AI" />
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" title="Twilio" />
-  <img src="https://img.shields.io/badge/Streamlit-FF0000?style=for-the-badge&logo=python&logoColor=white" title="Streamlit" />
   <img src="https://img.shields.io/badge/Trame-18662E?style=for-the-badge&logo=python&logoColor=white" title="Trame" />
 </p>
 
