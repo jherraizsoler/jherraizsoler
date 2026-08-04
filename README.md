@@ -35,7 +35,7 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
   🎓 <b></n>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)  [CPIFP Los Enlaces]</b> <br>
   🎓 <b>Técnico en Sistemas Microinformáticos y Redes (SMR)  [IES Santiago Hernández]</b> <br><br>
   
-  📂 <b>Portafolio (GitHub):</b><br>
+  📂 <b>Portfolio (GitHub):</b><br>
   🤖 <b>14 proyectos</b> avanzados desarrollados y documentados en IA y Big Data.<br>
   💻 Más de <b>40 proyectos</b> creados y documentados en tecnologías FullStack.<br><br>
 
