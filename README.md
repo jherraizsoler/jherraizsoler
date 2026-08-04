@@ -50,7 +50,7 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
   Rol híbrido actuando como Analista, Consultor, Arquitecto de Soluciones y Especialista en IA/DevOps. Diseño, desarrollo y despliegue a producción de arquitecturas modernas de microservicios y agentes inteligentes.
   Diseño, desarrollo y despliegue de soluciones empresariales basadas en Inteligencia Artificial Generativa, sistemas multiagente, automatización de procesos y arquitecturas cloud escalables.
   <ul>
-    <li><b>Impacto Real:</b> Participación activa en el ciclo completo de <b>11 proyectos empresariales</b>.</li>
+    <li><b>Impacto Real:</b> Participación activa en el ciclo completo de <b>14 proyectos empresariales</b>.</li>
     <li><b>Sectores y Soluciones:</b> Médico (Plataformas 3D Slicer/Trame para cirugías y analítica con IA), Asegurador, flujos OCR e industria química. Especialización en sistemas conversacionales avanzados (Call Centers de IA con <i>Laia, Laia Echeman</i> y asistentes de voz con VAPI).</li>
   </ul>
 
