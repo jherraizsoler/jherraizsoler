@@ -30,12 +30,12 @@ Especializado en IA Generativa, Sistemas Multiagente, Arquitecturas Cloud y Desa
 <h2 align="center">Sobre mí 😃</h2>
 
 <p align="left">
-  🎓 <b>Programa Profesional Ciberseguridad</b> <br>
-  🎓 <b>Máster FP -- Técnico Superior Especialista en Inteligencia Artificial y Big Data</b> <br>
-  🎓 <b></n>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)</b> <br>
-  🎓 <b>Técnico en Sistemas Microinformáticos y Redes (SMR)</b> <br><br>
+  🎓 <b>Programa Profesional Ciberseguridad  [UNIR - Universidad Internacional de La Rioja]</b> <br>
+  🎓 <b>Máster FP -- Técnico Superior Especialista en Inteligencia Artificial y Big Data  [Campus Digital FP]</b> <br>
+  🎓 <b></n>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)  [CPIFP Los Enlaces]</b> <br>
+  🎓 <b>Técnico en Sistemas Microinformáticos y Redes (SMR)  [IES Santiago Hernández]</b> <br><br>
   
-  📂 <b>Portafolio de Código Abierto (GitHub):</b><br>
+  📂 <b>Portafolio (GitHub):</b><br>
   🤖 <b>14 proyectos</b> avanzados desarrollados y documentados en IA y Big Data.<br>
   💻 Más de <b>40 proyectos</b> creados y documentados en tecnologías FullStack.<br><br>
 
